@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+@import url("./reset.css");
+@import url("./colors.css");
+
+html {
+    font-family: "Inter", sans-serif;
+}
+
+body {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}   
+
+.titulo {
+    font-size: 2.25rem;
+    display: block;
+    padding: 2.5rem 0   ;
+}
+
+.form-inputs {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.form-div {
+    display: flex;
+    flex-direction: column;
+    margin: 6.25rem 17.125rem;
+    width: auto;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.input-div {
+    display: flex;
+    gap: .25rem;
+    border-radius: .625rem;
+    background-color: var(--primaria);
+    padding: .5rem;
+}
+
+.input-texto {
+    font-size: 1.25rem;
+    border: none;
+    background-color: var(--primaria);
+    padding: 0.156rem;
+}
+
+.svg-input {
+    width: 1.75rem;
+    height: 1.75rem;
+}
+
+.genero {
+    display: flex;
+    flex-direction: row;
+    gap: 1.25rem;
+}
+
+.genero-titulo {
+    font-size: 1.25rem;
+}
+
+.genero-div {
+    display: flex;
+    gap: 1.5rem;    
+    font-size: 1.25rem;
+    background-color: var(--primaria);
+    padding: 1rem;
+    border-radius: 0.625rem;
+}
+
+p {
+    font-size: 0.625rem;
+}
+
+.input-botao {
+    align-self: flex-start;
+    background-color: var(--primaria);
+    border-radius: 1.25rem;
+    font-size: 1.5rem;
+    border: none;
+    padding: 1rem;
+}
+
+.img1 {
+    background-image: url("../img/flavia-gava-vDjk6TLHuTU-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 305px;
+    height: 15.5rem;
+    border-radius: .625rem;
+    box-shadow: 20px -20px 30px rgba(0, 0, 0, 0.5)
+}
+
+.img2 {
+    background-image: url("../img/laercio-cavalcanti-Q8BTZNG7B-U-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 433px;
+    height: 15.5rem;
+    border-radius: .625rem;
+    align-self: end;
+    box-shadow: 20px 0 30px rgba(0, 0, 0, 0.5)
+}
+
+.img3 {
+    background-image: url("../img/reynardo-etenia-wongso-EHmoH8aCQqU-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 140%;
+    width: 277px;
+    height: 247px;
+    border-radius: .625rem;
+    box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.5)
+}
+
+.input-texto::placeholder {
+    color: var(--preto);
+}
+
+.sessao {
+    display: flex;
+    flex-direction: column;
+    gap: 2.8rem;    
+    padding: 3.5rem 17.125rem 0 0;
+}
