@@ -8,3 +8,7 @@
     --preto: #000000;
     --branco: #FFFFFF;
 }
+
+html {
+    font-family: "Inter", sans-serif;
+}

@@ -1,0 +1,99 @@
+nav {
+    display: flex;
+    height: 7.5rem;
+    justify-content: space-between;
+    padding: 0 5.25rem;
+    background-color: var(--secundaria);
+    border-bottom-left-radius: 0.625rem;
+    border-bottom-right-radius: 0.625rem;
+}
+
+.navigation-div {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.logo {
+    height: 6.25rem;
+    width: 6.25rem;
+}
+
+.nav-list {
+    display: flex;
+    gap: 2.625rem;
+    margin: 0 1rem;
+}
+
+.nav-list li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: .682rem 0;
+    border-radius: 0.625rem;
+    width: 11.375rem;
+    background-color: var(--primaria);
+}
+
+.nav-list li a {
+    text-decoration: none;
+    color: var(--preto);
+    font-size: 1.2rem;
+    position: relative;
+
+    
+}
+
+.nav-list li a::before{
+    content: '';
+    background-color: var(--preto);
+    position: absolute;
+    bottom: -2px;
+    left: -10%;
+    height: 1px;
+    width: 0;
+    transition: width 300ms;
+}
+
+.nav-list li a:hover::before {
+    width: 120%;
+    transition: width 300ms;
+}
+
+.active {
+    width: 100%;
+    transition: 300ms;
+}
+
+.user-div {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    margin: 2.156rem;
+}
+
+.user-div a {
+    transition: 300ms;
+}
+
+.user-div a:hover {
+    transform: scale(1.1);
+    transition: 300ms;
+}
+
+.shopping-cart {
+    padding: calc((0.625rem) - .5px) 0.625rem;
+}
+
+.favorite {
+    width: 3.25rem;
+    height: 3.25rem;
+    border-radius: calc(3.25rem/2);
+    background-color: var(--branco);
+}
+
+.user-pic {
+    padding: 0.75rem;
+    border-radius: calc(3.25rem/2);
+    background-color: var(--branco);
+}

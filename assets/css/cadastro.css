@@ -2,10 +2,6 @@
 @import url("./reset.css");
 @import url("./colors.css");
 
-html {
-    font-family: "Inter", sans-serif;
-}
-
 body {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -14,7 +10,7 @@ body {
 .titulo {
     font-size: 2.25rem;
     display: block;
-    padding: 2.5rem 0   ;
+    padding: 2.5rem 0;
 }
 
 .form-inputs {
@@ -26,7 +22,7 @@ body {
 .form-div {
     display: flex;
     flex-direction: column;
-    margin: 6.25rem 17.125rem;
+    align-items: center;
     width: auto;
 }
 
@@ -42,6 +38,7 @@ form {
     border-radius: .625rem;
     background-color: var(--primaria);
     padding: .5rem;
+    width: 25.375rem;
 }
 
 .input-texto {
@@ -49,6 +46,7 @@ form {
     border: none;
     background-color: var(--primaria);
     padding: 0.156rem;
+    width: 90%;
 }
 
 .svg-input {
@@ -77,6 +75,7 @@ form {
 
 p {
     font-size: 0.625rem;
+    width: 25.8rem;
 }
 
 .input-botao {
@@ -89,44 +88,46 @@ p {
 }
 
 .img1 {
-    background-image: url("../img/flavia-gava-vDjk6TLHuTU-unsplash.jpg");
+    background-image: url("../img/signup-img1.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
-    width: 305px;
-    height: 15.5rem;
+    width: 274.5px;
+    height: 13rem;
     border-radius: .625rem;
     box-shadow: 20px -20px 30px rgba(0, 0, 0, 0.5)
 }
 
 .img2 {
-    background-image: url("../img/laercio-cavalcanti-Q8BTZNG7B-U-unsplash.jpg");
+    background-image: url("../img/signup-img2.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
     width: 433px;
-    height: 15.5rem;
+    height: 13.95rem;
     border-radius: .625rem;
     align-self: end;
     box-shadow: 20px 0 30px rgba(0, 0, 0, 0.5)
 }
 
 .img3 {
-    background-image: url("../img/reynardo-etenia-wongso-EHmoH8aCQqU-unsplash.jpg");
+    background-image: url("../img/signup-img3.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 140%;
     width: 277px;
-    height: 247px;
+    height: 13.95rem;
     border-radius: .625rem;
     box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.5)
 }
 
 .input-texto::placeholder {
-    color: var(--preto);
+    color: #000000CC;
 }
 
 .sessao {
     display: flex;
     flex-direction: column;
-    gap: 2.8rem;    
-    padding: 3.5rem 17.125rem 0 0;
+    width: 40rem;
+    justify-content: space-around;
+    margin: 2.5% 0;
+    height: 94vh;
 }
