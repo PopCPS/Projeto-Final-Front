@@ -1,14 +1,14 @@
-@import url("./product.css");
+@import url("./item.css");
 
 main {
     background-color: #FBFBFB;
 }
 
-.eco-ad img {
+.home-ad img {
     display: block;
     width: 100%;
 }
 
-.eco-ad {
+.home-ad {
     width: 100vw;
 }

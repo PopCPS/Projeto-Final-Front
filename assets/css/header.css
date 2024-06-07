@@ -63,8 +63,6 @@ nav {
     gap: 5rem;
     background-color: var(--primaria);
     width: 100%;
-    border-bottom-left-radius: 0.625rem;
-    border-bottom-right-radius: 0.625rem;
 }
 
 .nav-list li {

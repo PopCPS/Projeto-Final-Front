@@ -34,69 +34,34 @@
             </div>
             <div class="navigation-div">
                 <ul class="nav-list">
-                    <li><a href="./roupas.html">Clothing</a></li>
-                    <li><a href="./higiene.html">Hygiene</a></li>
-                    <li><a href="./brinquedos.html">Toys</a></li>
-                    <li><a href="./mamaes.html">For Moms</a></li>
+                    <li><a id="roupas" href="./roupas.html">Clothing</a></li>
+                    <li><a id="higiene" href="./higiene.html">Hygiene</a></li>
+                    <li><a id="brinquedos" href="./brinquedos.html">Toys</a></li>
+                    <li><a id="mamaes" href="./mamaes.html">For Moms</a></li>
                 </ul>
             </div>
         </nav>
     </header>
     <main>
-        <section class="eco-ad">
-            <img src="./assets/img/home-ad.png" alt="Ipe Ong advertising">
+        <section class="home-ad">
+            <img id="home-ad" src="./assets/img/home-ad-1.png" alt="Home banner">
         </section>
-        <section class="product-listing">
+        <section id="ofertas" class="product-listing">
+            <h2 class="section-title">Weekly Discounts</h2>
             <ul class="product-list">
-                <li class="item">
-                    <div class="item-img">
-                        <img src="https://softsensbaby.com/cdn/shop/articles/1_f5a36eac-9baf-480c-a450-40f401287bb2.jpg?v=1633599012" alt="Item image">
-                    </div>
-                    <a class="item-href" href="">See item</a>
-                    <div class="item-data">
-                        <h5 class="item-maker">EcoBaby</h5>
-                        <h4 class="item-name">Body Bebê Manga Longa</h4>
-                        <h4 class="item-material">Alfazema</h4>
-                        <h3 class="item-price">R$27,85</h3>
-                    </div>
-                </li>
-                <li class="item">
-                    <div class="item-img">
-                        <img src="https://softsensbaby.com/cdn/shop/articles/1_f5a36eac-9baf-480c-a450-40f401287bb2.jpg?v=1633599012" alt="Item image">
-                    </div>
-                    <a class="item-href" href="">See item</a>
-                    <div class="item-data">
-                        <h5 class="item-maker">EcoBaby</h5>
-                        <h4 class="item-name">Body Bebê Manga Longa</h4>
-                        <h4 class="item-material">Alfazema</h4>
-                        <h3 class="item-price">R$27,85</h3>
-                    </div>
-                </li>
-                <li class="item">
-                    <div class="item-img">
-                        <img src="https://softsensbaby.com/cdn/shop/articles/1_f5a36eac-9baf-480c-a450-40f401287bb2.jpg?v=1633599012" alt="Item image">
-                    </div>
-                    <a class="item-href" href="">See item</a>
-                    <div class="item-data">
-                        <h5 class="item-maker">EcoBaby</h5>
-                        <h4 class="item-name">Body Bebê Manga Longa</h4>
-                        <h4 class="item-material">Alfazema</h4>
-                        <h3 class="item-price">R$27,85</h3>
-                    </div>
-                </li>
-                <li class="item">
-                    <div class="item-img">
-                        <img src="https://softsensbaby.com/cdn/shop/articles/1_f5a36eac-9baf-480c-a450-40f401287bb2.jpg?v=1633599012" alt="Item image">
-                    </div>
-                    <a class="item-href" href="">See item</a>
-                    <div class="item-data">
-                        <h5 class="item-maker">EcoBaby</h5>
-                        <h4 class="item-name">Body Bebê Manga Longa</h4>
-                        <h4 class="item-material">Alfazema</h4>
-                        <h3 class="item-price">R$27,85</h3>
-                    </div>
-                </li>
             </ul>
+        </section>
+        <section id="categoria-roupas" class="product-listing">
+            <h2 class="section-title">Clothing</h2>
+            <ul class="product-list"></ul>
+        </section>
+        <section id="categoria-higiene" class="product-listing">
+            <h2 class="section-title">Hygiene</h2>
+            <ul class="product-list"></ul>
+        </section>
+        <section id="categoria-mamaes" class="product-listing">
+            <h2 class="section-title">For Moms</h2>
+            <ul class="product-list"></ul>
         </section>
     </main>
     <footer>
@@ -150,4 +115,6 @@
         <p class="terms">@2024 Ecobaby. Todos os direitos reservados.</p>
     </footer>
 </body>
+<script src="./script/carousel.js"></script>
+<script type="module" src="./script/item-render.js"></script>
 </html>
