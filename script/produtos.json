@@ -1,0 +1,606 @@
+{
+    "produtos": {
+        "produto1" : {
+            "id": "",
+            "nome": "Body Bebê Manga Longa",
+            "preco": "R$27,85",
+            "imagem": "./assets/img/products/roupas1.png",
+            "categoria" : "roupas",
+            "promocao": false,
+            "material": "",
+            "fornecedor": "",
+            "desc": "Mantenha seu bebê confortável e aquecido com nosso body de manga longa feito de algodão orgânico. Suave, respirável e fácil de vestir, ele protege a pele sensível do seu bebê e o meio ambiente. Disponível em cores suaves e designs adoráveis, é a escolha perfeita para um cuidado sustentável."
+        },
+
+        "produto2" : {
+            "id": "",
+            "nome": "Pijaminha Kimono Algodão Pima",
+            "preco": "R$108,75",
+            "imagem": "../assets/img/products/roupas2.png",
+            "categoria" : "roupas",
+            "promocao": false,
+            "desc": "Ofereça ao seu bebê noites de sono confortáveis com nosso pijaminha kimono de algodão Pima. Macio, respirável e delicado para a pele sensível, este pijaminha proporciona conforto máximo. O design estilo kimono facilita na hora de vestir e trocar. Escolha um sono tranquilo e sustentável para o seu pequeno."
+        },
+
+        "produto3" : {
+            "id": "",
+            "nome": "Pijaminha Maternidade Algodão",
+            "preco": "R$254,98",
+            "imagem": "../assets/img/products/roupas3.png",
+            "categoria" : "roupas",
+            "promocao": true,
+            "desc": "Garanta conforto e praticidade durante a maternidade com nosso pijaminha de algodão. Macio e respirável, ele é ideal para noites tranquilas e momentos de amamentação. Com um design pensado para facilitar o acesso, este pijaminha proporciona bem-estar para você e seu bebê. Durma bem e cuide de si mesma com nosso pijaminha de maternidade sustentável."
+        },
+        
+        "produto4" : {
+            "id": "",
+            "nome": "Body Bebê Manga Longa",
+            "preco": "R$27,85",
+            "imagem": "../assets/img/products/roupas4.png",
+            "categoria" : "roupas",
+            "promocao": true,
+            "desc": "Mantenha seu bebê confortável e aquecido com nosso body de manga longa feito de algodão orgânico. Suave, respirável e fácil de vestir, ele protege a pele sensível do seu bebê e o meio ambiente. Disponível em cores suaves e designs adoráveis, é a escolha perfeita para um cuidado sustentável."
+        },
+        
+        "produto5" : {
+            "id": "",
+            "nome": "Pijaminha de Veludo",
+            "preco": "R$35,75",
+            "imagem": "../assets/img/products/roupas5.png",
+            "categoria" : "roupas",
+            "promocao": false,
+            "desc": "Mantenha seu bebê aquecido e confortável com nosso pijaminha de veludo. Macio e aconchegante, é perfeito para noites frias, proporcionando um toque suave na pele delicada do seu pequeno. Com design prático e fácil de vestir, este pijaminha combina conforto e estilo para um sono tranquilo. Escolha bem-estar e elegância com nosso pijaminha de veludo."
+        },
+        
+        "produto6" : {
+            "id": "",
+            "nome": "Cueca Infantil 4 Botões",
+            "preco": "R$22,89",
+            "imagem": "../assets/img/products/roupas6.png",
+            "categoria" : "roupas",
+            "promocao": false,
+            "desc": "Mantenha seu pequeno confortável e na moda com nossa cueca infantil com 4 botões. Feita com tecido macio e elástico, esta cueca proporciona ajuste confortável durante todo o dia. Com um estilo clássico e detalhes de botões, adiciona um toque de charme ao guarda-roupa do seu filho."
+        },
+
+        "produto7" : {
+            "id": "",
+            "nome": "Body Bebê Manga Curta",
+            "preco": "R$24,45",
+            "imagem": "../assets/img/products/roupas7.png",
+            "categoria" : "roupas",
+            "promocao": false,
+            "desc": "Feito com um tecido leve e macio, este body mantém seu pequeno confortável e estiloso mesmo nos dias mais quentes. A manga curta permite liberdade de movimento, enquanto o fecho com botões na parte inferior facilita na hora de vestir e trocar."
+        },
+        
+        "produto8" : {
+            "id": "",
+            "nome": "Cueca Infantil",
+            "preco": "R$16,99",
+            "imagem": "../assets/img/products/roupas8.png",
+            "categoria" : "roupas",
+            "promocao": false,
+            "desc": "Prepare seu pequeno para um dia cheio de aventuras com nossa cueca infantil. Feita com tecido macio e confortável, esta cueca proporciona liberdade de movimento para brincadeiras sem fim. Com um design vibrante e divertido, é perfeita para inspirar a imaginação do seu filho. Além disso, a cintura elástica oferece um ajuste confortável que acompanha o crescimento do seu pequeno aventureiro."
+        },
+        
+        "produto9" : {
+            "id": "",
+            "nome": "Conjunto Calcinha Infantil",
+            "preco": "R$38,45",
+            "imagem": "../assets/img/products/roupas9.png",
+            "categoria" : "roupas",
+            "promocao": true,
+            "desc": "Ofereça conforto e praticidade ao dia a dia da sua pequena com nosso Conjunto Calcinha Infantil. Este conjunto apresenta três calcinhas simples, projetadas para garantir conforto e liberdade de movimento para sua bebê. Feitas com tecido macio e delicado, são ideais para a pele sensível dos pequenos. Escolha este conjunto para manter sua princesinha feliz e confortável em todos os momentos."
+        },
+        
+        "produto10" : {
+            "id": "",
+            "nome": "Pijaminha de Veludo",
+            "preco": "R$35,75",
+            "imagem": "../assets/img/products/roupas10.png",
+            "categoria" : "roupas",
+            "promocao": false,
+            "desc": "Mantenha seu bebê aquecido e confortável com nosso pijaminha de veludo. Macio e aconchegante, é perfeito para noites frias, proporcionando um toque suave na pele delicada do seu pequeno. Com design prático e fácil de vestir, este pijaminha combina conforto e estilo para um sono tranquilo. Escolha bem-estar e elegância com nosso pijaminha de veludo."
+        },
+        
+        "produto11" : {
+            "id": "",
+            "nome": "Conjuntinho Infantil Feminino",
+            "preco": "R$18,29",
+            "imagem": "../assets/img/products/roupas11.png",
+            "categoria" : "roupas",
+            "promocao": false,
+            "desc": "Encante sua pequena com nosso Conjunto Infantil Feminino. Composto por uma calcinha e um top simples, ambos na cor de rosa mais adorável, este conjunto é perfeito para momentos de diversão e conforto. Feito com tecido macio e delicado, proporciona o ajuste perfeito para a pele sensível da sua princesinha. O design simples e elegante destaca a beleza natural da criança, enquanto a cor rosa adiciona um toque de delicadeza e feminilidade. Este conjuntinho é a escolha ideal para dias ensolarados cheios de brincadeiras e sorrisos radiantes"
+        },
+        
+        "produto12" : {
+            "id": "",
+            "nome": "Body Bebê Manga Curta",
+            "preco": "R$24,45",
+            "imagem": "../assets/img/products/roupas12.png",
+            "categoria" : "roupas",
+            "promocao": false,
+            "desc": "Feito com um tecido leve e macio, este body mantém seu pequeno confortável e estiloso mesmo nos dias mais quentes. A manga curta permite liberdade de movimento, enquanto o fecho com botões na parte inferior facilita na hora de vestir e trocar."
+        },
+        
+        "produto13" : {
+            "id": "",
+            "nome": "Macacão Infantil em Algodão com Capuz Forrado",
+            "preco": "R$139,90",
+            "imagem": "../assets/img/products/roupas13.webp",
+            "categoria" : "roupas",
+            "promocao": true,
+            "desc": "Proporcione conforto e proteção ao seu bebê com nosso macacão infantil em algodão, apresentando um capuz com forro. Fabricado com algodão macio e respirável, este macacão é ideal para todas as estações. O forro no capuz oferece uma camada extra de calor e aconchego, enquanto o design prático facilita a vestimenta e a troca de roupas. Escolha este macacão para manter seu pequeno confortável e elegante."
+        },
+        
+        "produto14" : {
+            "id": "",
+            "nome": "Jardineira Moletinho do Ursinho Pooh",
+            "preco": "R$99,90",
+            "imagem": "../assets/img/products/roupas14.webp",
+            "categoria" : "roupas",
+            "promocao": false,
+            "desc": "Deixe seu bebê pronto para aventuras com nossa encantadora jardineira de moletinho do Ursinho Pooh. Feita com um material macio e aconchegante, esta jardineira oferece conforto durante todo o dia. Com o adorável design inspirado no Ursinho Pooh, seu pequeno vai encantar a todos por onde passar. Além disso, os botões de pressão facilitam na hora de vestir e trocar a roupa. Escolha a magia e o conforto para o seu bebê com nossa jardineira do Ursinho Pooh."
+        },
+        
+        "produto15" : {
+            "id": "",
+            "nome": "Macacão Infantil em Algodão",
+            "preco": "R$99,90",
+            "imagem": "../assets/img/products/roupas15.webp",
+            "categoria" : "roupas",
+            "promocao": true,
+            "desc": "Proporcione conforto e estilo ao seu bebê com nosso Macacão Infantil em Algodão. Feito com algodão de alta qualidade, este macacão oferece uma sensação suave e delicada contra a pele do seu pequeno. Com um design simples e charmoso, é perfeito para uso diário. O tecido respirável garante conforto em todas as estações, enquanto o fecho prático na parte inferior facilita a troca de fraldas. Escolha o para garantir conforto e fofura para o seu bebê em todos os momentos."
+        },
+        
+
+        "produto16" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto17" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto18" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto19" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto20" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto21" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto22" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto23" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto24" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto25" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto26" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto27" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto28" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto29" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto30" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto31" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto32" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto33" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto34" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto35" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto36" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto37" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto38" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto39" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto40" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto41" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto42" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto43" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto44" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto45" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto46" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto47" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto48" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto49" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto50" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto51" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto52" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto53" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto54" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto55" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto56" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto57" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto58" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto59" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        },
+        
+        "produto60" : {
+            "id": "",
+            "nome": "",
+            "preco": "",
+            "imagem": "",
+            "categoria" : "",
+            "promocao": false,
+            "desc": ""
+        }
+    }
+}

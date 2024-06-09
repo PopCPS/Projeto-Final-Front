@@ -1,0 +1,14 @@
+:root {
+    --primaria: #33AF8C;
+    --secundaria: #92D0C6;
+    --sucesso: #2CB859;
+    --aviso: #EAC648;
+    --perigo: #E75858;
+    --neutro: # 737E86;
+    --preto: #000000;
+    --branco: #FFFFFF;
+}
+
+html {
+    font-family: "Inter", sans-serif;
+}
