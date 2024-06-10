@@ -28,7 +28,7 @@ const renderItem = (section, item) => {
             <div class="item-data">
                 <h5 class="item-maker">${item.fornecedor}</h5>
                 <h4 class="item-name">${item.nome}</h4>
-                <h4 class="item-material">${item.material}</h4>
+                <h4 class="item-material">${item.cor}</h4>
                 <h3 class="item-price">${item.preco}</h3>
             </div>
         </li>
