@@ -1,0 +1,127 @@
+header nav{
+  display: flex;
+  flex-direction: row;
+  padding: 5px;
+  justify-content: space-around;
+}
+header nav ul{
+  display: flex;
+  gap: 15vw;
+  padding: 10px;
+}
+header nav ul li{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+}
+.icones{
+  width: 4vw;
+}
+main{
+  display: flex;
+  align-items: center;
+  gap: 2vw;
+  justify-items: center;
+  justify-content: space-around;
+  margin: 20px;
+  border: solid #d8d8d8 1px;
+  border-radius: 5px;
+}
+main nav{
+  background: white;
+}
+.title_pagamentos{
+  padding: 15px;
+}
+main .FormasPagamento{
+  display: flex;
+  flex-direction: column;
+  align-content:space-around;
+  gap: 50px;
+  justify-content: center;
+  align-items: center;
+  
+}
+nav .FormasPagamento li{
+  display: flex;
+  align-items: center;
+  gap: 1vw;
+}
+.pagamento_boleto{
+  display: flex;
+  padding: 15px;
+  align-items: center;
+  flex-direction: column;
+  width: 50%;
+}
+.conteudo_boleto{
+  background: #F1F1F1;
+  display:flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+  padding: 25px;
+  gap: 3vh;
+}
+.conteudo_boleto img{
+  width: 150px;
+}
+.conteudo_boleto button img{
+  width: 20px;
+}
+/* Pagamento boleto como none*/
+.pagamento_boleto{
+  display: none;
+}
+.pagamento_cartao img{
+  width: 20vw;
+  padding: 20px;
+}
+.pagamento_cartao .inputs{
+  display: flex;
+  flex-direction: column;
+  gap: 5vh;
+}
+
+.pagamento_cartao .inputs input, select{
+  height: 6vh;
+  border-radius: 3px;
+
+}
+.resumo_pedido{
+  width: 25vw;
+  text-align: center;
+}
+.resumo_pedido .produto{
+  display: flex;
+  padding: 20px;
+  text-align: left;
+  gap: 12px;
+}
+.resumo_pedido .produto img{
+  width: 10vw;
+  border-radius: 20px;
+}
+.itens_conta{
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  justify-content: center;
+  text-align: left;
+}
+.itens{
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.resumo_pedido button{
+  margin: 25px;
+  font-size: 16px;
+  border: none;
+  border-radius:14px ;
+  font-weight: 600;
+  padding: 15px;
+  color: white;
+  background: #5CBFA3;
+}

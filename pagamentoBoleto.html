@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/css/produtos.css">
+    <link rel="stylesheet" href="./assets/css/pagamentoBoleto.css">
+    <title>EcoBaby - Payment</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="nav-top">
+                <a href="./home.html">
+                    <img class="logo" src="./assets/img/EcoBaby-logo.svg" alt="Logo EcoBaby">
+                </a>
+            </div>
+            <ul>
+                <li>
+                    <img class="icones" src="./assets/img/icons/caminhao-menu-pagamento-fundo-verde.svg" alt="Um ícone de caminhão com um fundo verde mostrando que essa parte do menu já foi concluída ou está sendo realizada">
+                    <span>Dados de entrega</span>
+                </li>
+                <li>
+                    <img class="icones" src="./assets/img/icons/carteira-menu-pagamento-fundo-verde.svg" alt="Um ícone de uma carteira com um fundo verde mostrando que essa parte do menu já foi concluída ou está sendo realizada">
+                    <span>Pagamento</span>
+                </li>
+                <li>
+                    <img class="icones" src="./assets/img/icons/pacote-menu-pagamento-sem-fundo.svg" alt="Um ícone de um pacote sem um fundo verde mostrando que essa parte do menu  ainda não foi concluída ou não está sendo realizada">
+                    <span>Acompanhamento do pedido</span>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <nav>
+            <p class="title_pagamentos">Forma de pagamento</p>
+            <ul class="FormasPagamento">
+                <li>
+                    <img src="./assets/img/icons/clarity_bar-code-line.svg" alt="Ícone de um código de barras">
+                    <span>Boleto</span>
+                </li>
+                <li>
+                    <img src="./assets/img/icons/ion_card.svg" alt="Ícone de um cartão">
+                    <span>Cartão</span>
+                </li>
+                <li>
+                    <img src="./assets/img/icons/ic_baseline-pix.svg" alt="Ícone">
+                    <span>Pix</span>
+                </li>
+            </ul>
+        </nav>
+        <section class="pagamento_boleto">
+            <span>Veja como é simples pagar com um boleto</span>
+            <div class="conteudo_boleto">
+                <ul>
+                    <li>
+                        1. Imprima ou copie o número do boleto;
+                    </li>
+                    <li>
+                        2. Pague no seu banco ou pela internet;
+                    </li>
+                    <li>
+                        3.O prazo de validade do boleto é um dia útil.
+                    </li>
+                </ul>
+                <img src="./assets/img/cod_de_barras-removebg-preview 1.svg" alt="Imagem do código de barras da compra">
+                <button>
+                    <span>Copiar código de barras</span>
+                    <img src="./assets/img/icons/basil_copy-outline.svg" alt="Ícone de cópia de algo">
+                </button>
+                <button>
+                    <span>Baixar boleto</span>
+                    <img src="./assets/img/icons/fi-rr-download.svg" alt="">
+                </button>
+            </div>
+            <ul>
+                <span>Importante</span>
+                <li> Se o boleto não for pago até a data de vencimento, o pedido será cancelado automaticamente</li>
+                <li> O prazo de entrega dos pedidos pagos com boleto bancário começa a contar três dias depois do pagamento do boleto, tempo necessário para que a instituição bancária confirme o pagamento.</li>
+            </ul>
+        </section>
+        <section class="pagamento_cartao">
+            <img src="./assets/img/cartao 1.svg" alt="Imagem ilustrativa de um cartão">
+            <div class="inputs">
+                <input type="number" placeholder="Número do cartão">
+                <input type="text" placeholder="Nome impresso no cartão">
+                <input type="date" placeholder="validade">
+                <input type="text" placeholder="Código de de segurança">
+                <select id="parcelas">
+                    <option value="opcao1">Nº de parcelas</option>
+                    <option value="opcao2">2x</option>
+                    <option value="opcao3">5x</option>
+                    <option value="opcao4">10x</option>
+                </select>
+            </div>
+        </section>
+        <section class="resumo_pedido">
+            <span>Resumo do pedido</span>
+            <div class="produto">
+                <img src="./assets/img/products/roupas7.png" alt="Imagem do item que está sendo comprado">
+                <div>
+                    <span>
+                        <span>EcoBaby <br></span>
+                        <span>Body Bebê Manga curta<br></span>
+                    </span>
+                    <span>Bege</span>
+                </div>
+            </div>
+            <div class="itens_conta">
+                <div class="itens">
+                    <span>3 produtos</span>
+                    <span>Frete</span>
+                    <span>Total</span>
+                </div>
+                <div class="itens">
+                    <span>R$24,45</span> 
+                    <span>R$12,10</span>
+                    <span>R$36,55</span>
+                </div>
+            </div>
+            <button>Finalizar pedido</button>
+        </section>
+    </div>
+    </main>
+    <footer>
+        <div>
+            <div class="footer-row">
+                <ul class="footer-list">
+                    <il>
+                        <h3 class="list-title">Customer service</h3>
+                    </il>
+                    <il><a href="" class="list-link">Help Center</a></il>
+                    <il><a href="" class="list-link">FAQ</a></il>
+                    <il><a href="" class="list-link">Payment methods</a></il>
+                </ul>
+            </div>
+            <div class="footer-row">
+                <ul class="footer-list">
+                    <il>
+                        <h3 class="list-title">About EcoBaby</h3>
+                    </il>
+                    <il><a href="" class="list-link">About us</a></il>
+                    <il><a href="" class="list-link">EcoBaby policies</a></il>
+                    <il><a href="" class="list-link">Privacy policies</a></il>
+                </ul>
+            </div>
+            <div class="footer-row">
+                <ul class="footer-list">
+                    <il>
+                        <h3 class="list-title">Follow us</h3>
+                    </il>
+                    <il>
+                        <a href="" class="list-link">
+                            <img class="social-svg" src="./assets/img/instagram-logo.svg" alt="Instagram">
+                            <span>Instagram</span>
+                        </a>
+                    </il>
+                    <il>
+                        <a href="" class="list-link">
+                            <img class="social-svg" src="./assets/img/facebook-logo.svg" alt="Facebook">
+                            <span>Facebook</span>
+                        </a>
+                    </il>
+                    <il>
+                        <a href="" class="list-link">
+                            <img class="social-svg" src="./assets/img/linkedin-logo.svg" alt="LinkedIn">
+                            <span>LinkedIn</span>
+                        </a>
+                    </il>
+                </ul>   
+            </div>
+        </div>
+        <p class="terms">@2024 Ecobaby. Todos os direitos reservados.</p>
+    </footer>
+    <script src="./script/pagamentos.js"></script>
+</body>
+</html>
