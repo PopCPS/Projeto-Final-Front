@@ -57,3 +57,7 @@ input:-webkit-autofill:active{
 span, p, il {
 	cursor: default;
 }
+
+.hidden	{
+	display: none;
+}
