@@ -97,272 +97,272 @@
         },
         
         "produto9" : {
-            "id": "",
+            "id": "9",
             "nome": "Conjunto Calcinha Infantil",
             "preco": "R$38,45",
             "imagem": "../assets/img/products/roupas9.png",
             "categoria" : "roupas",
             "promocao": true,
-            "cor": "",
-            "fornecedor": "",
+            "cor": "Bege (Listrado)",
+            "fornecedor": "Happy Child",
             "desc": "Ofereça conforto e praticidade ao dia a dia da sua pequena com nosso Conjunto Calcinha Infantil. Este conjunto apresenta três calcinhas simples, projetadas para garantir conforto e liberdade de movimento para sua bebê. Feitas com tecido macio e delicado, são ideais para a pele sensível dos pequenos. Escolha este conjunto para manter sua princesinha feliz e confortável em todos os momentos."
         },
         
         "produto10" : {
-            "id": "",
+            "id": "10",
             "nome": "Pijaminha de Veludo",
             "preco": "R$35,75",
             "imagem": "../assets/img/products/roupas10.png",
             "categoria" : "roupas",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
+            "cor": "Rosa",
+            "fornecedor": "BabyHappy",
             "desc": "Mantenha seu bebê aquecido e confortável com nosso pijaminha de veludo. Macio e aconchegante, é perfeito para noites frias, proporcionando um toque suave na pele delicada do seu pequeno. Com design prático e fácil de vestir, este pijaminha combina conforto e estilo para um sono tranquilo. Escolha bem-estar e elegância com nosso pijaminha de veludo."
         },
         
         "produto11" : {
-            "id": "",
+            "id": "11",
             "nome": "Conjuntinho Infantil Feminino",
             "preco": "R$18,29",
             "imagem": "../assets/img/products/roupas11.png",
             "categoria" : "roupas",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
+            "cor": "Rosa",
+            "fornecedor": "EcoWorld",
             "desc": "Encante sua pequena com nosso Conjunto Infantil Feminino. Composto por uma calcinha e um top simples, ambos na cor de rosa mais adorável, este conjunto é perfeito para momentos de diversão e conforto. Feito com tecido macio e delicado, proporciona o ajuste perfeito para a pele sensível da sua princesinha. O design simples e elegante destaca a beleza natural da criança, enquanto a cor rosa adiciona um toque de delicadeza e feminilidade. Este conjuntinho é a escolha ideal para dias ensolarados cheios de brincadeiras e sorrisos radiantes"
         },
         
         "produto12" : {
-            "id": "",
+            "id": "12",
             "nome": "Body Bebê Manga Curta",
             "preco": "R$24,45",
             "imagem": "../assets/img/products/roupas12.png",
             "categoria" : "roupas",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
+            "cor": "Branco",
+            "fornecedor": "EcoBaby",
             "desc": "Feito com um tecido leve e macio, este body mantém seu pequeno confortável e estiloso mesmo nos dias mais quentes. A manga curta permite liberdade de movimento, enquanto o fecho com botões na parte inferior facilita na hora de vestir e trocar."
         },
         
         "produto13" : {
-            "id": "",
-            "nome": "Macacão Infantil em Algodão com Capuz Forrado",
-            "preco": "R$139,90",
+            "id": "13",
+            "nome": "Meia Bebê 0-12 meses",
+            "preco": "R$18,90",
             "imagem": "../assets/img/products/roupas13.webp",
             "categoria" : "roupas",
             "promocao": true,
-            "cor": "",
-            "fornecedor": "",
-            "desc": "Proporcione conforto e proteção ao seu bebê com nosso macacão infantil em algodão, apresentando um capuz com forro. Fabricado com algodão macio e respirável, este macacão é ideal para todas as estações. O forro no capuz oferece uma camada extra de calor e aconchego, enquanto o design prático facilita a vestimenta e a troca de roupas. Escolha este macacão para manter seu pequeno confortável e elegante."
+            "cor": "Branca",
+            "fornecedor": "Verdi Natural",
+            "desc": "Nossas meias para bebê são confeccionadas com algodão penteado de alta qualidade, garantindo o máximo de conforto e ajuste perfeito aos pezinhos delicados do seu pequeno. O algodão penteado é especialmente suave e durável, proporcionando uma sensação aconchegante e respirável que mantém os pés do bebê confortáveis durante todo o dia. Além disso, o ajuste elástico suave assegura que as meias permaneçam no lugar sem apertar, permitindo liberdade de movimento e protegendo a pele sensível dos bebês. Escolha nossas meias para um toque de carinho e conforto a cada passo."
         },
         
         "produto14" : {
-            "id": "",
-            "nome": "Jardineira Moletinho do Ursinho Pooh",
-            "preco": "R$99,90",
+            "id": "14",
+            "nome": "Meia Antiderrapante",
+            "preco": "R$24,90",
             "imagem": "../assets/img/products/roupas14.webp",
             "categoria" : "roupas",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": "Deixe seu bebê pronto para aventuras com nossa encantadora jardineira de moletinho do Ursinho Pooh. Feita com um material macio e aconchegante, esta jardineira oferece conforto durante todo o dia. Com o adorável design inspirado no Ursinho Pooh, seu pequeno vai encantar a todos por onde passar. Além disso, os botões de pressão facilitam na hora de vestir e trocar a roupa. Escolha a magia e o conforto para o seu bebê com nossa jardineira do Ursinho Pooh."
+            "cor": "Azul Escuro",
+            "fornecedor": "Verdi Natural",
+            "desc": "A Meia Antiderrapante para Bebê é a solução ideal para os delicados pezinhos do seu pequeno. Feita de algodão penteado de alta qualidade, ela oferece máximo conforto e um ajuste perfeito. As borrachas antiderrapantes na sola proporcionam segurança extra, ajudando seu bebê a firmar os primeiros passinhos com confiança. Suave, respirável e segura, essa meia é essencial para garantir conforto e estabilidade nas primeiras aventuras do seu bebê."
         },
         
         "produto15" : {
-            "id": "",
-            "nome": "Macacão Infantil em Algodão",
-            "preco": "R$99,90",
+            "id": "15",
+            "nome": "Meia Antiderrapante com Lacinho",
+            "preco": "R$24,90",
             "imagem": "../assets/img/products/roupas15.webp",
             "categoria" : "roupas",
             "promocao": true,
-            "cor": "",
-            "fornecedor": "",
-            "desc": "Proporcione conforto e estilo ao seu bebê com nosso Macacão Infantil em Algodão. Feito com algodão de alta qualidade, este macacão oferece uma sensação suave e delicada contra a pele do seu pequeno. Com um design simples e charmoso, é perfeito para uso diário. O tecido respirável garante conforto em todas as estações, enquanto o fecho prático na parte inferior facilita a troca de fraldas. Escolha o para garantir conforto e fofura para o seu bebê em todos os momentos."
+            "cor": "Rosa e Branco",
+            "fornecedor": "Verdi Natural",
+            "desc": "A Meia Antiderrapante para Bebê é a solução ideal para os delicados pezinhos do seu pequeno. Feita de algodão penteado de alta qualidade, ela oferece máximo conforto e um ajuste perfeito. As borrachas antiderrapantes na sola proporcionam segurança extra, ajudando seu bebê a firmar os primeiros passinhos com confiança. Suave, respirável e segura, essa meia é essencial para garantir conforto e estabilidade nas primeiras aventuras do seu bebê."
         },
         
 
         "produto16" : {
-            "id": "",
-            "nome": "",
-            "preco": "",
-            "imagem": "",
-            "categoria" : "",
+            "id": "16",
+            "nome": "Toalha Umidecida Higiênica",
+            "preco": "R$14,99",
+            "imagem": "../assets/img/products/higiene16.png",
+            "categoria" : "higiene",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "Padrão",
+            "fornecedor": "Qualitá",
+            "desc": "Mantenha seu bebê limpo e confortável com nossas Toalhas Umedecidas Higiênicas. Feitas com ingredientes suaves e seguros para a pele delicada do seu pequeno, essas toalhas são ideais para trocas de fraldas, limpeza das mãos e rosto, ou qualquer momento que necessite de uma limpeza rápida e eficiente. Com fórmula hipoalergênica e sem álcool, proporcionam uma limpeza gentil sem irritações. Perfeitas para uso diário, em casa ou em passeios, garantindo frescor e higiene a qualquer hora."
         },
         
         "produto17" : {
-            "id": "",
-            "nome": "",
-            "preco": "",
-            "imagem": "",
-            "categoria" : "",
+            "id": "17",
+            "nome": "Kit Higiene",
+            "preco": "R$169,99",
+            "imagem": "../assets/img/products/higiene17.png",
+            "categoria" : "higiene",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "Padrão",
+            "fornecedor": "Kanui",
+            "desc": "Experimente o Kit Higiene em Barra Verdi Natural, uma solução completa e sustentável para a sua rotina diária. Inclui sabonete, sabonete íntimo, shampoo, condicionador e desodorante, todos em barra e feitos com ingredientes naturais para cuidar suavemente da sua pele e cabelos."
         },
         
         "produto18" : {
-            "id": "",
-            "nome": "",
-            "preco": "",
-            "imagem": "",
-            "categoria" : "",
+            "id": "18",
+            "nome": "Shampoo em Barra",
+            "preco": "R$41,90",
+            "imagem": "../assets/img/products/higiene18.png",
+            "categoria" : "higiene",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "Padrão",
+            "fornecedor": "Kanui",
+            "desc": "Experimente o Shampoo Sólido Kanui, uma alternativa sustentável para a sua rotina de cuidados capilares. Formulado com ingredientes naturais, oferece uma limpeza suave e eficaz, deixando seus cabelos limpos, hidratados e revitalizados. Ideal para quem busca uma opção prática, econômica e ecologicamente consciente."
         },
         
         "produto19" : {
-            "id": "",
-            "nome": "",
-            "preco": "",
-            "imagem": "",
-            "categoria" : "",
+            "id": "19",
+            "nome": "Toalhas Umidecidas - 60 unidades",
+            "preco": "R$34,90",
+            "imagem": "../assets/img/products/higiene19.png",
+            "categoria" : "higiene",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "Padrão",
+            "fornecedor": "Mustela",
+            "desc": "Experimente as Toalhas Umedecidas, um aliado conveniente para a higiene do seu bebê. Com 60 unidades por embalagem, essas toalhas são perfeitas para limpeza rápida e suave em qualquer lugar. Feitas com ingredientes seguros e suaves, proporcionam frescor e conforto para a pele delicada do seu pequeno. Ideal para uso em casa, viagens ou momentos em movimento."
         },
         
         "produto20" : {
-            "id": "",
-            "nome": "",
-            "preco": "",
-            "imagem": "",
-            "categoria" : "",
+            "id": "20",
+            "nome": "Creme Preventivo de Assaduras Suaves",
+            "preco": "R$34,87",
+            "imagem": "../assets/img/products/higiene20.png",
+            "categoria" : "higiene",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "Padrão",
+            "fornecedor": "Bebê Natureza",
+            "desc": "Experimente o Creme Preventivo de Assaduras Suaves, uma solução delicada para a pele sensível do seu bebê. Com uma fórmula suave e eficaz, este creme proporciona uma camada protetora que previne e acalma as assaduras. Feito com ingredientes naturais e seguros, como manteiga de karité e óleo de coco, é ideal para uso diário. Proteja e cuide da pele do seu bebê com carinho e suavidade."
         },
         
         "produto21" : {
-            "id": "",
-            "nome": "",
-            "preco": "",
-            "imagem": "",
-            "categoria" : "",
+            "id": "21",
+            "nome": "Creme Preventivo de Assaduras Bio Orgânico",
+            "preco": "R$53,90",
+            "imagem": "../assets/img/products/higiene21.png",
+            "categoria" : "higiene",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "Padrão",
+            "fornecedor": "Mustela",
+            "desc": "Experimente o Creme Preventivo de Assaduras Bio Orgânico, enriquecido com óleo de girassol, aloe vera e azeite de oliva. Esta fórmula delicada e natural proporciona uma camada protetora que previne e acalma as assaduras, enquanto hidrata e nutre a pele do seu bebê. Feito com ingredientes orgânicos certificados, é suave e seguro para uso diário. Proteja e cuide da pele do seu bebê de forma natural e eficaz."
         },
         
         "produto22" : {
-            "id": "",
-            "nome": "",
-            "preco": "",
-            "imagem": "",
-            "categoria" : "",
+            "id": "22",
+            "nome": "Pomada Mágica",
+            "preco": "R$23,50",
+            "imagem": "../assets/img/products/higiene22.png",
+            "categoria" : "higiene",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "Padrão",
+            "fornecedor": "Pomada Mágica",
+            "desc": "Experimente nossa Pomada Mágica Vegana, uma solução incrível para cuidar da pele do seu bebê de forma natural e consciente. Feita com ingredientes vegetais e livres de produtos de origem animal, esta pomada oferece uma fórmula suave e eficaz para prevenir e tratar assaduras, irritações e pequenos ferimentos. Com uma mistura especial de óleos essenciais e extratos vegetais, proporciona hidratação, proteção e regeneração da pele. Cuide do seu bebê de uma maneira gentil, ética e sustentável com nossa Pomada Mágica Vegana."
         },
         
         "produto23" : {
-            "id": "",
-            "nome": "",
-            "preco": "",
-            "imagem": "",
-            "categoria" : "",
+            "id": "23",
+            "nome": "Spray Hidratante",
+            "preco": "R$54,90",
+            "imagem": "../assets/img/products/higiene23.png",
+            "categoria" : "higiene",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "Padrão",
+            "fornecedor": "Verdi Natural",
+            "desc": "Nosso Spray Hidratante Reparador Infantil 100% Natural é formulado com ingredientes naturais como Hidrolato de Lavanda, Aloe Vera, Calêndula, Óleo Essencial de Lavanda e Pantenol. Com textura leve e refrescante, hidrata pele e cabelos, sendo de rápida absorção. Sua fórmula líquida e oil-free contém Pantenol, que nutre e hidrata em segundos. O spray é de fácil aplicação e pode ser usado diariamente, sendo indicado para bebês, crianças e toda a família, proporcionando cuidado suave e eficaz."
         },
         
         "produto24" : {
-            "id": "",
-            "nome": "",
-            "preco": "",
-            "imagem": "",
-            "categoria" : "",
+            "id": "24",
+            "nome": "Toalhas Umedecidas - 64 unidades",
+            "preco": "R$16,50",
+            "imagem": "../assets/img/products/higiene24.png",
+            "categoria" : "higiene",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "Padrão",
+            "fornecedor": "Boots Baby",
+            "desc": "Experimente nossas Toalhas Umidecidas, com 64 unidades por embalagem, ideais para manter a pele do seu bebê limpa e fresca em qualquer lugar. Feitas com ingredientes suaves e seguros, são perfeitas para trocas de fraldas, limpeza das mãos e rosto, ou para qualquer momento que necessite de uma limpeza rápida e eficiente. Práticas e convenientes, proporcionam frescor e higiene onde quer que você esteja."
         },
         
         "produto25" : {
-            "id": "",
-            "nome": "",
-            "preco": "",
-            "imagem": "",
-            "categoria" : "",
+            "id": "25",
+            "nome": "Toalhas Umedecidas - 96 unidades",
+            "preco": "R$23,99",
+            "imagem": "../assets/img/products/higiene25.png",
+            "categoria" : "higiene",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "Padrão",
+            "fornecedor": "Bepantol Baby",
+            "desc": "Experimente as Toalhas Umedecidas Bepantol Baby, com 96 unidades por embalagem, perfeitas para cuidar da pele delicada do seu bebê. Feitas com ingredientes suaves e seguros, como o Bepantol, proporcionam uma limpeza suave e eficaz, mantendo a pele do seu bebê limpa, hidratada e protegida. Práticas e convenientes, são ideais para uso diário em casa ou em movimento, oferecendo frescor e conforto a qualquer momento."
         },
         
         "produto26" : {
-            "id": "",
-            "nome": "",
-            "preco": "",
-            "imagem": "",
-            "categoria" : "",
+            "id": "26",
+            "nome": "Desodorante Natural Spray",
+            "preco": "R$38,99",
+            "imagem": "../assets/img/products/higiene27.png",
+            "categoria" : "higiene",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "Padrão",
+            "fornecedor": "Verdi Natural",
+            "desc": "Experimente nosso Desodorante Natural em Spray, uma opção eficaz e suave para manter-se fresco ao longo do dia. Feito com ingredientes naturais, como óleos essenciais e extratos vegetais, este desodorante oferece proteção duradoura contra o odor, sem obstruir os poros. Sua fórmula suave é ideal para todos os tipos de pele, proporcionando uma sensação de frescor e bem-estar. Com aplicação fácil e rápida absorção, mantenha-se confiante e confortável com nosso desodorante natural em spray."
         },
         
         "produto27" : {
-            "id": "",
-            "nome": "",
-            "preco": "",
-            "imagem": "",
-            "categoria" : "",
+            "id": "27",
+            "nome": "Hidratante Natural",
+            "preco": "R$64,99",
+            "imagem": "../assets/img/products/higiene28.png",
+            "categoria" : "higiene",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "Padrão",
+            "fornecedor": "Verdi Natural",
+            "desc": "Experimente nosso Hidratante Natural, uma opção suave e eficaz para cuidar da sua pele. Formulado com ingredientes naturais, como óleos vegetais e manteigas, este hidratante proporciona uma hidratação profunda e duradoura, sem deixar uma sensação oleosa. Sua fórmula leve é rapidamente absorvida pela pele, deixando-a macia, suave e nutrida. Ideal para uso diário em todo o corpo, mantenha sua pele saudável e radiante com nosso hidratante natural."
         },
         
         "produto28" : {
-            "id": "",
-            "nome": "",
-            "preco": "",
-            "imagem": "",
-            "categoria" : "",
+            "id": "28",
+            "nome": "Creme Preventivo de Assaduras",
+            "preco": "R$49,90",
+            "imagem": "../assets/img/products/higiene28.webp",
+            "categoria" : "higiene",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "Padrão",
+            "fornecedor": "Verdi Natural",
+            "desc": "O Creme Preventivo de Assaduras Verdi Natural oferece proteção e cuidado 100% natural para o seu bebê. Com ação protetora, calmante e anti-inflamatória, previne e trata assaduras, além de hidratar a pele. Ideal para trocas diárias de fralda, é formulado com ingredientes naturais e conservantes aprovados (COSMOS), garantindo um cuidado seguro e carinhoso para a pele delicada do seu bebê."
         },
         
         "produto29" : {
-            "id": "",
-            "nome": "",
-            "preco": "",
-            "imagem": "",
-            "categoria" : "",
+            "id": "29",
+            "nome": "Protetor Solar Natural",
+            "preco": "R$109,90",
+            "imagem": "../assets/img/products/higiene29.webp",
+            "categoria" : "higiene",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "Padrão",
+            "fornecedor": "Verdi Natural",
+            "desc": "Proteja sua pele e a dos seus pequenos com nosso Protetor Solar Natural. Formulado com ingredientes naturais como Dióxido de Titânio e Óxido de Zinco, ele cria uma barreira física de longa duração contra os raios UVA e UVB. Enriquecido com Manteiga de Karité, Óleo de Cenoura, Cera de Abelha e Óleo de Abacate, este protetor solar nutre e hidrata a pele, enquanto o Conservante ECOCERT garante a segurança e eficácia do produto. Ideal para toda a família, nosso protetor solar oferece proteção confiável e cuidado suave para a pele."
         },
         
         "produto30" : {
-            "id": "",
-            "nome": "",
-            "preco": "",
-            "imagem": "",
-            "categoria" : "",
+            "id": "30",
+            "nome": "Espuma de Banho Colorida",
+            "preco": "R$74,90",
+            "imagem": "../assets/img/products/higiene30.webp",
+            "categoria" : "higiene",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "Padrão",
+            "fornecedor": "Verdi Natural",
+            "desc": "Transforme a hora do banho em uma experiência mágica com a Espuma de Banho Colorida Verdi Natural. Feita para a pele sensível de bebês e crianças, sua fórmula com Clorofila, Hidrolatos de Lemongrass e Hortelã, Óleo Essencial de Lavanda e Manteiga de Karité oferece cuidado e diversão. Nutre e protege a pele, tornando cada banho uma lembrança especial."
         },
         
         "produto31" : {
-            "id": "",
+            "id": "31",
             "nome": "",
             "preco": "",
             "imagem": "",
@@ -374,7 +374,7 @@
         },
         
         "produto32" : {
-            "id": "",
+            "id": "32",
             "nome": "",
             "preco": "",
             "imagem": "",
@@ -386,7 +386,7 @@
         },
         
         "produto33" : {
-            "id": "",
+            "id": "33",
             "nome": "",
             "preco": "",
             "imagem": "",
@@ -398,7 +398,7 @@
         },
         
         "produto34" : {
-            "id": "",
+            "id": "34",
             "nome": "",
             "preco": "",
             "imagem": "",
@@ -410,7 +410,7 @@
         },
         
         "produto35" : {
-            "id": "",
+            "id": "35",
             "nome": "",
             "preco": "",
             "imagem": "",
@@ -422,7 +422,7 @@
         },
         
         "produto36" : {
-            "id": "",
+            "id": "36",
             "nome": "",
             "preco": "",
             "imagem": "",
@@ -434,7 +434,7 @@
         },
         
         "produto37" : {
-            "id": "",
+            "id": "37",
             "nome": "",
             "preco": "",
             "imagem": "",
@@ -446,7 +446,7 @@
         },
         
         "produto38" : {
-            "id": "",
+            "id": "38",
             "nome": "",
             "preco": "",
             "imagem": "",
@@ -458,7 +458,7 @@
         },
         
         "produto39" : {
-            "id": "",
+            "id": "39",
             "nome": "",
             "preco": "",
             "imagem": "",
@@ -470,7 +470,7 @@
         },
         
         "produto40" : {
-            "id": "",
+            "id": "40",
             "nome": "",
             "preco": "",
             "imagem": "",
@@ -482,7 +482,7 @@
         },
         
         "produto41" : {
-            "id": "",
+            "id": "41",
             "nome": "",
             "preco": "",
             "imagem": "",
@@ -494,7 +494,7 @@
         },
         
         "produto42" : {
-            "id": "",
+            "id": "42",
             "nome": "",
             "preco": "",
             "imagem": "",
@@ -506,7 +506,7 @@
         },
         
         "produto43" : {
-            "id": "",
+            "id": "43",
             "nome": "",
             "preco": "",
             "imagem": "",
@@ -518,7 +518,7 @@
         },
         
         "produto44" : {
-            "id": "",
+            "id": "44",
             "nome": "",
             "preco": "",
             "imagem": "",
@@ -530,7 +530,7 @@
         },
         
         "produto45" : {
-            "id": "",
+            "id": "45",
             "nome": "",
             "preco": "",
             "imagem": "",
@@ -542,7 +542,7 @@
         },
         
         "produto46" : {
-            "id": "",
+            "id": "46",
             "nome": "",
             "preco": "",
             "imagem": "",
@@ -554,7 +554,7 @@
         },
         
         "produto47" : {
-            "id": "",
+            "id": "47",
             "nome": "",
             "preco": "",
             "imagem": "",
@@ -566,7 +566,7 @@
         },
         
         "produto48" : {
-            "id": "",
+            "id": "48",
             "nome": "",
             "preco": "",
             "imagem": "",
@@ -578,7 +578,7 @@
         },
         
         "produto49" : {
-            "id": "",
+            "id": "49",
             "nome": "",
             "preco": "",
             "imagem": "",
@@ -590,7 +590,7 @@
         },
         
         "produto50" : {
-            "id": "",
+            "id": "50",
             "nome": "",
             "preco": "",
             "imagem": "",
@@ -602,7 +602,7 @@
         },
         
         "produto51" : {
-            "id": "",
+            "id": "51",
             "nome": "",
             "preco": "",
             "imagem": "",
@@ -614,7 +614,7 @@
         },
         
         "produto52" : {
-            "id": "",
+            "id": "52",
             "nome": "",
             "preco": "",
             "imagem": "",
@@ -626,7 +626,7 @@
         },
         
         "produto53" : {
-            "id": "",
+            "id": "53",
             "nome": "",
             "preco": "",
             "imagem": "",
@@ -638,7 +638,7 @@
         },
         
         "produto54" : {
-            "id": "",
+            "id": "54",
             "nome": "",
             "preco": "",
             "imagem": "",
@@ -650,7 +650,7 @@
         },
         
         "produto55" : {
-            "id": "",
+            "id": "55",
             "nome": "",
             "preco": "",
             "imagem": "",
@@ -662,7 +662,7 @@
         },
         
         "produto56" : {
-            "id": "",
+            "id": "56",
             "nome": "",
             "preco": "",
             "imagem": "",
@@ -674,7 +674,7 @@
         },
         
         "produto57" : {
-            "id": "",
+            "id": "57",
             "nome": "",
             "preco": "",
             "imagem": "",
@@ -686,7 +686,7 @@
         },
         
         "produto58" : {
-            "id": "",
+            "id": "58",
             "nome": "",
             "preco": "",
             "imagem": "",
@@ -698,7 +698,7 @@
         },
         
         "produto59" : {
-            "id": "",
+            "id": "59",
             "nome": "",
             "preco": "",
             "imagem": "",
@@ -710,7 +710,7 @@
         },
         
         "produto60" : {
-            "id": "",
+            "id": "60",
             "nome": "",
             "preco": "",
             "imagem": "",
