@@ -70,3 +70,31 @@ footer div {
     width: 70%;
     background-color: var(--preto);
 }
+
+@media screen and (max-width: 480px) {
+    
+    footer div {
+        flex-direction: column;
+        gap: .5rem;
+        padding: 1rem;
+        align-items: center;
+    }
+
+    .list-title {
+        font-size: 1.25rem;
+    }
+
+    .list-link, .terms {
+        font-size: 1rem;
+    }
+    
+    .footer-list {
+        width: 13.75rem;
+        align-items: center;
+    }
+
+    .terms::before {
+        top: .375;
+    }
+
+}

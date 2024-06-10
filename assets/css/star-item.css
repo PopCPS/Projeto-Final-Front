@@ -16,6 +16,9 @@ main {
     width: 74rem;
     column-gap: 2.375rem;
     margin: 5rem 0;
+    background-color: #f8fcfc;
+    padding: 2rem 1rem;
+    border-radius: .625rem;
 }
 
 .img-div {
@@ -70,4 +73,33 @@ main {
     background-color: #3A9595;
     font-size: 1.25rem;
     padding: .75rem 1.625rem;
+}
+
+@media screen and (max-width: 480px) {
+
+    .main-item-header {
+        grid-template-columns: 25rem;
+        width: auto;
+        margin: 3rem 0 2rem;
+        padding: 0;
+        gap: 2rem;
+    }
+
+    .main-item-desc {
+        font-size: 1rem;
+    }
+
+    .main-item-price {
+        align-self: flex-end;
+        margin: 0 1rem 1.5rem 0;
+    }
+
+    .main-item-data {
+        justify-content: center;
+    }
+
+    .img-div {
+        width: auto;
+    }
+
 }

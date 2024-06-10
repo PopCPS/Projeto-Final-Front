@@ -16,3 +16,15 @@
 .product-listing {
     padding: 2rem;
 }
+
+@media screen and (max-width: 480px) {
+
+    .product-listing {
+        padding: 1rem 0;
+    }
+
+    .section-title {
+        padding-bottom: 1rem;
+    }
+
+}

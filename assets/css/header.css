@@ -134,4 +134,53 @@ nav {
     padding: 0.75rem;
     border-radius: calc(3.25rem/2);
     background-color: var(--branco);
+}  
+
+@media screen and (max-width: 480px) {
+    .search-input {
+        padding: .25rem;
+        padding-left: 1rem;
+    }
+
+    .search-bar {
+        margin: 1rem;
+        order: 5;
+    }
+
+    .search-button {
+        margin: .5rem;
+    }
+
+    .favorite {
+        display: none;
+    }
+
+    .user-div {
+        gap: .75rem;
+        margin: 1rem 1rem 0;
+    }
+
+    .nav-top {
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .logo {
+        gap: .75rem;
+        margin: 1rem 1rem 0;
+        height: 3.25rem;
+        width: 3.25rem;
+    }
+
+    .nav-list {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: .5rem;
+        justify-items: center;
+    }
+
+    .nav-list li {
+        padding: .5rem 0;
+    }
+
 }

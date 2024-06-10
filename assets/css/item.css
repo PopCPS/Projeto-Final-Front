@@ -66,3 +66,25 @@
 .item-maker, .item-material, .item-name, .item-price {
     color: var(--neutro);
 }
+
+@media screen and (max-width: 480px) {
+
+    .product-list {
+        grid-template-columns: 1fr 1fr;
+        gap: .5rem;
+    }
+
+    .item {
+        gap: .5rem;
+    }
+
+    .item-img {
+        width: 11rem;
+        height: 11rem;
+    }
+    
+    .item-href {
+        width: 11rem;
+    }
+
+}
