@@ -507,145 +507,145 @@
         
         "produto43" : {
             "id": "43",
-            "nome": "",
-            "preco": "",
-            "imagem": "../assets/img/products/brinquedos43.png",
+            "nome": "Trenzinho de Madeira Autoadesivo",
+            "preco": "R$29,99",
+            "imagem": "../assets/img/products/brinquedos43.jpg",
             "categoria" : "brinquedos",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "Madeira",
+            "fornecedor": "Ri Happy",
+            "desc": "Este adorável brinquedo de parede é feito de madeira de alta qualidade e apresenta um trenzinho com vagões cheios de personagens encantadores, liderados pelo Sr. Urso. Fácil de aplicar, o adesivo mantém o trenzinho firmemente na parede, proporcionando uma decoração interativa e divertida. Ideal para estimular a imaginação e a coordenação motora, é perfeito para qualquer espaço infantil."
         },
         
         "produto44" : {
             "id": "44",
-            "nome": "",
-            "preco": "",
-            "imagem": "../assets/img/products/brinquedos44.png",
+            "nome": "Mesa de Atividades - Fazendinha",
+            "preco": "R$449,99",
+            "imagem": "../assets/img/products/brinquedos44.jpg",
             "categoria" : "brinquedos",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "Madeira, Colorido",
+            "fornecedor": "Ri Happy",
+            "desc": "Transforme o aprendizado em uma divertida aventura com a Mesa de Atividades Fazendinha. Este brinquedo educativo é feito de materiais duráveis e seguros, com um design encantador de fazendinha. A mesa inclui várias atividades interativas, como encaixar formas, deslizar peças e girar engrenagens, todas inspiradas na vida na fazenda. Ideal para estimular a coordenação motora, a criatividade e o reconhecimento de formas e cores, esta mesa de atividades é perfeita para crianças pequenas explorarem e aprenderem enquanto brincam. Proporcione horas de diversão educativa com a Mesa de Atividades Fazendinha."
         },
         
         "produto45" : {
             "id": "45",
-            "nome": "",
-            "preco": "",
-            "imagem": "../assets/img/products/brinquedos45.png",
+            "nome": "Brinquedo Educativo - Letras e Números",
+            "preco": "R$79,90",
+            "imagem": "../assets/img/products/brinquedos45.jpg",
             "categoria" : "brinquedos",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "Madeira",
+            "fornecedor": "Ri Happy",
+            "desc": "Estimule o aprendizado e a diversão com o Brinquedo Educativo de Encaixar Peças de Letras e Números em Madeira. Este brinquedo clássico é feito de madeira de alta qualidade, oferecendo durabilidade e segurança para as crianças. Com peças coloridas em formato de letras e números, ele ajuda no desenvolvimento das habilidades motoras finas, reconhecimento de formas e cores, além de introduzir conceitos básicos de alfabetização e matemática. Ideal para crianças em fase de aprendizado, é uma maneira divertida e educativa de explorar o mundo das letras e números."
         },
         
         "produto46" : {
             "id": "46",
-            "nome": "",
-            "preco": "",
-            "imagem": "../assets/img/products/brinquedos46.png",
+            "nome": "Almofada para Amamentação",
+            "preco": "R$82,99",
+            "imagem": "../assets/img/products/mamaes46.png",
             "categoria" : "mamaes",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "Branca",
+            "fornecedor": "EcoBaby",
+            "desc": "Torne a amamentação mais confortável e prática com a Almofada para Amamentação. Projetada ergonomicamente, esta almofada oferece suporte ideal para a mãe e o bebê durante as sessões de amamentação. Feita com materiais macios e de alta qualidade, proporciona um apoio firme, ajudando a reduzir a tensão nos braços, ombros e pescoço da mãe. A capa removível e lavável facilita a limpeza, garantindo higiene e praticidade."
         },
         
         "produto47" : {
             "id": "47",
-            "nome": "",
-            "preco": "",
-            "imagem": "../assets/img/products/brinquedos47.png",
+            "nome": "Canguru - Sling",
+            "preco": "R$279,99",
+            "imagem": "../assets/img/products/mamaes47.png",
             "categoria" : "mamaes",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "Terracota",
+            "fornecedor": "EcoBaby",
+            "desc": "Mantenha seu bebê perto e seguro com o Canguru Sling. Feito de tecido macio e respirável, este sling oferece conforto e suporte tanto para o bebê quanto para o cuidador. Seu design ergonômico distribui uniformemente o peso, reduzindo a tensão nos ombros e nas costas. Fácil de ajustar, é ideal para uso em diversas posições, promovendo um vínculo mais forte e proporcionando liberdade de movimento. Perfeito para passeios, atividades em casa ou viagens, o Canguru Sling é a escolha ideal para manter seu bebê confortável e acolhido."
         },
         
         "produto48" : {
             "id": "48",
-            "nome": "",
-            "preco": "",
-            "imagem": "../assets/img/products/brinquedos48.png",
+            "nome": "Almofada para Amamentação",
+            "preco": "R$44,99",
+            "imagem": "../assets/img/products/mamaes48.png",
             "categoria" : "mamaes",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "Branca",
+            "fornecedor": "EcoBaby",
+            "desc": "Torne a amamentação mais confortável e prática com a Almofada para Amamentação. Projetada ergonomicamente, esta almofada oferece suporte ideal para a mãe e o bebê durante as sessões de amamentação. Feita com materiais macios e de alta qualidade, proporciona um apoio firme, ajudando a reduzir a tensão nos braços, ombros e pescoço da mãe. A capa removível e lavável facilita a limpeza, garantindo higiene e praticidade."
         },
         
         "produto49" : {
             "id": "49",
-            "nome": "",
-            "preco": "",
-            "imagem": "../assets/img/products/brinquedos49.png",
+            "nome": "Kit - 5 Pares de Absorvente para Seios",
+            "preco": "R$59,99",
+            "imagem": "../assets/img/products/mamaes49.png",
             "categoria" : "mamaes",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "Colorido",
+            "fornecedor": "EcoBaby",
+            "desc": "Mantenha-se seca e confortável durante a amamentação com o Kit de 5 Pares de Absorventes para Seios. Feitos de materiais macios e absorventes, esses absorventes reutilizáveis protegem contra vazamentos, mantendo sua pele e suas roupas secas. O design discreto e contornado se ajusta perfeitamente ao sutiã, proporcionando conforto durante todo o dia. Fáceis de lavar e reutilizar, são uma opção prática e ecológica para mães que amamentam"
         },
         
         "produto50" : {
             "id": "50",
-            "nome": "",
-            "preco": "",
-            "imagem": "../assets/img/products/brinquedos50.png",
+            "nome": "Almofada para Amamentação - Animais",
+            "preco": "R$84,99",
+            "imagem": "../assets/img/products/mamaes50.png",
             "categoria" : "mamaes",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "Verde",
+            "fornecedor": "EcoBaby",
+            "desc": "Torne a amamentação mais confortável e prática com a Almofada para Amamentação. Projetada ergonomicamente, esta almofada oferece suporte ideal para a mãe e o bebê durante as sessões de amamentação. Feita com materiais macios e de alta qualidade, proporciona um apoio firme, ajudando a reduzir a tensão nos braços, ombros e pescoço da mãe. A capa removível e lavável facilita a limpeza, garantindo higiene e praticidade."
         },
         
         "produto51" : {
             "id": "51",
-            "nome": "",
-            "preco": "",
-            "imagem": "../assets/img/products/brinquedos51.png",
+            "nome": "Almofada para Amamentação - Animais",
+            "preco": "R$84,99",
+            "imagem": "../assets/img/products/mamaes51.png",
             "categoria" : "mamaes",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "Branca",
+            "fornecedor": "EcoBaby",
+            "desc": "Torne a amamentação mais confortável e prática com a Almofada para Amamentação. Projetada ergonomicamente, esta almofada oferece suporte ideal para a mãe e o bebê durante as sessões de amamentação. Feita com materiais macios e de alta qualidade, proporciona um apoio firme, ajudando a reduzir a tensão nos braços, ombros e pescoço da mãe. A capa removível e lavável facilita a limpeza, garantindo higiene e praticidade."
         },
         
         "produto52" : {
             "id": "52",
-            "nome": "",
-            "preco": "",
-            "imagem": "../assets/img/products/brinquedos52.png",
+            "nome": "Canguru - Sling",
+            "preco": "R$344,99",
+            "imagem": "../assets/img/products/mamaes52.png",
             "categoria" : "mamaes",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "Azul",
+            "fornecedor": "EcoBaby",
+            "desc": "Mantenha seu bebê perto e seguro com o Canguru Sling. Feito de tecido macio e respirável, este sling oferece conforto e suporte tanto para o bebê quanto para o cuidador. Seu design ergonômico distribui uniformemente o peso, reduzindo a tensão nos ombros e nas costas. Fácil de ajustar, é ideal para uso em diversas posições, promovendo um vínculo mais forte e proporcionando liberdade de movimento. Perfeito para passeios, atividades em casa ou viagens, o Canguru Sling é a escolha ideal para manter seu bebê confortável e acolhido."
         },
         
         "produto53" : {
             "id": "53",
-            "nome": "",
-            "preco": "",
-            "imagem": "../assets/img/products/brinquedos53.png",
+            "nome": "Canguru - Sling Crochê",
+            "preco": "R$324,99",
+            "imagem": "../assets/img/products/mamaes53.png",
             "categoria" : "mamaes",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "Verde",
+            "fornecedor": "EcoBaby",
+            "desc": "Carregue seu bebê com estilo e conforto com o Canguru Sling de Crochê. Feito à mão com fios de algodão macios e respiráveis, este sling oferece suporte seguro e acolhedor para o seu bebê. Seu design ergonômico distribui o peso uniformemente, reduzindo a tensão nos ombros e nas costas do cuidador. Fácil de ajustar, é ideal para várias posições de transporte, promovendo um vínculo mais próximo entre você e seu bebê. Perfeito para passeios, atividades em casa ou momentos de descanso, o Canguru Sling de Crochê é uma escolha charmosa e prática para pais modernos."
         },
         
         "produto54" : {
             "id": "54",
-            "nome": "",
-            "preco": "",
-            "imagem": "../assets/img/products/brinquedos54.png",
+            "nome": "Mochila Canguru - Algodão",
+            "preco": "R$426,50",
+            "imagem": "../assets/img/products/mamaes54.png",
             "categoria" : "mamaes",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
+            "cor": "Verde",
+            "fornecedor": "EcoBaby",
             "desc": ""
         },
         
@@ -653,7 +653,7 @@
             "id": "55",
             "nome": "",
             "preco": "",
-            "imagem": "../assets/img/products/brinquedos55.png",
+            "imagem": "../assets/img/products/mamaes55.png",
             "categoria" : "mamaes",
             "promocao": false,
             "cor": "",
@@ -665,7 +665,7 @@
             "id": "56",
             "nome": "",
             "preco": "",
-            "imagem": "../assets/img/products/brinquedos56.png",
+            "imagem": "../assets/img/products/mamaes56.png",
             "categoria" : "mamaes",
             "promocao": false,
             "cor": "",
@@ -677,7 +677,7 @@
             "id": "57",
             "nome": "",
             "preco": "",
-            "imagem": "../assets/img/products/brinquedos57.png",
+            "imagem": "../assets/img/products/mamaes57.png",
             "categoria" : "mamaes",
             "promocao": false,
             "cor": "",
@@ -689,7 +689,7 @@
             "id": "58",
             "nome": "",
             "preco": "",
-            "imagem": "../assets/img/products/brinquedos58.png",
+            "imagem": "../assets/img/products/mamaes58.png",
             "categoria" : "mamaes",
             "promocao": false,
             "cor": "",
@@ -701,7 +701,7 @@
             "id": "59",
             "nome": "",
             "preco": "",
-            "imagem": "../assets/img/products/brinquedos59.png",
+            "imagem": "../assets/img/products/mamaes59.png",
             "categoria" : "mamaes",
             "promocao": false,
             "cor": "",
@@ -713,7 +713,7 @@
             "id": "60",
             "nome": "",
             "preco": "",
-            "imagem": "../assets/img/products/brinquedos60.png",
+            "imagem": "../assets/img/products/mamaes60.png",
             "categoria" : "mamaes",
             "promocao": false,
             "cor": "",
