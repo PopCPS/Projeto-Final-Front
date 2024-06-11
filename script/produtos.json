@@ -2,723 +2,723 @@
     "produtos": {
         "produto1" : {
             "id": "1",
-            "nome": "Body Bebê Manga Longa",
+            "nome": "Long Sleeve Baby Bodysuit",
             "preco": "R$27,85",
             "imagem": "./assets/img/products/roupas1.png",
             "categoria" : "roupas",
             "promocao": false,
-            "cor": "Alfazema",
+            "cor": "Lavender",
             "fornecedor": "EcoBaby",
-            "desc": "Mantenha seu bebê confortável e aquecido com nosso body de manga longa feito de algodão orgânico. Suave, respirável e fácil de vestir, ele protege a pele sensível do seu bebê e o meio ambiente. Disponível em cores suaves e designs adoráveis, é a escolha perfeita para um cuidado sustentável."
+            "desc": "Keep your baby comfortable and warm with our long-sleeve bodysuit made from organic cotton. Soft, breathable, and easy to put on, it protects your baby's sensitive skin and the environment. Available in gentle colors and adorable designs, it is the perfect choice for sustainable care."
         },
 
         "produto2" : {
             "id": "2",
-            "nome": "Pijaminha Kimono Algodão Pima",
+            "nome": "Pima Cotton Kimono Pajamas",
             "preco": "R$108,75",
             "imagem": "../assets/img/products/roupas2.png",
             "categoria" : "roupas",
             "promocao": false,
-            "cor": "Bege",
+            "cor": "Beige",
             "fornecedor": "Cute Baby",
-            "desc": "Ofereça ao seu bebê noites de sono confortáveis com nosso pijaminha kimono de algodão Pima. Macio, respirável e delicado para a pele sensível, este pijaminha proporciona conforto máximo. O design estilo kimono facilita na hora de vestir e trocar. Escolha um sono tranquilo e sustentável para o seu pequeno."
+            "desc": "Offer your baby comfortable nights of sleep with our Pima cotton kimono pajamas. Soft, breathable, and gentle on sensitive skin, these pajamas provide maximum comfort. The kimono-style design makes dressing and changing easy. Choose peaceful and sustainable sleep for your little one."
         },
 
         "produto3" : {
             "id": "3",
-            "nome": "Pijaminha Maternidade Algodão",
+            "nome": "Maternity Pajamas - Cotton",
             "preco": "R$254,98",
             "imagem": "../assets/img/products/roupas3.png",
             "categoria" : "roupas",
             "promocao": true,
-            "cor": "Bege",
+            "cor": "Beige",
             "fornecedor": "Baby Deluxe",
-            "desc": "Garanta conforto e praticidade durante a maternidade com nosso pijaminha de algodão. Macio e respirável, ele é ideal para noites tranquilas e momentos de amamentação. Com um design pensado para facilitar o acesso, este pijaminha proporciona bem-estar para você e seu bebê. Durma bem e cuide de si mesma com nosso pijaminha de maternidade sustentável."
+            "desc": "Ensure comfort and convenience during maternity with our cotton pajamas. Soft and breathable, they are ideal for peaceful nights and breastfeeding moments. With a design aimed at easy access, these pajamas provide well-being for you and your baby. Sleep well and take care of yourself with our sustainable maternity pajamas."
         },
         
         "produto4" : {
             "id": "4",
-            "nome": "Body Bebê Manga Longa",
+            "nome": "Long Sleeve Baby Bodysuit",
             "preco": "R$27,85",
             "imagem": "../assets/img/products/roupas4.png",
             "categoria" : "roupas",
             "promocao": true,
             "cor": "Bege",
             "fornecedor": "EcoBaby",
-            "desc": "Mantenha seu bebê confortável e aquecido com nosso body de manga longa feito de algodão orgânico. Suave, respirável e fácil de vestir, ele protege a pele sensível do seu bebê e o meio ambiente. Disponível em cores suaves e designs adoráveis, é a escolha perfeita para um cuidado sustentável."
+            "desc": "Keep your baby comfortable and warm with our long-sleeve bodysuit made from organic cotton. Soft, breathable, and easy to put on, it protects your baby's sensitive skin and the environment. Available in gentle colors and adorable designs, it is the perfect choice for sustainable care."
         },
         
         "produto5" : {
             "id": "5",
-            "nome": "Pijaminha de Veludo",
+            "nome": "Velvet Pajamas",
             "preco": "R$35,75",
             "imagem": "../assets/img/products/roupas5.png",
             "categoria" : "roupas",
             "promocao": false,
-            "cor": "Azul Bebê",
+            "cor": "Baby Blue",
             "fornecedor": "BabyHappy",
-            "desc": "Mantenha seu bebê aquecido e confortável com nosso pijaminha de veludo. Macio e aconchegante, é perfeito para noites frias, proporcionando um toque suave na pele delicada do seu pequeno. Com design prático e fácil de vestir, este pijaminha combina conforto e estilo para um sono tranquilo. Escolha bem-estar e elegância com nosso pijaminha de veludo."
+            "desc": "Keep your baby warm and comfortable with our velvet pajamas. Soft and cozy, it's perfect for cold nights, providing a gentle touch on your little one's delicate skin. With a practical design that's easy to put on, these pajamas combine comfort and style for peaceful sleep. Choose well-being and elegance with our velvet pajamas."
         },
         
         "produto6" : {
             "id": "6",
-            "nome": "Cueca Infantil 4 Botões",
+            "nome": "Infant Boxer Briefs with 4 Buttons",
             "preco": "R$22,89",
             "imagem": "../assets/img/products/roupas6.png",
             "categoria" : "roupas",
             "promocao": false,
-            "cor": "Verde",
+            "cor": "Green",
             "fornecedor": "Happy Child",
-            "desc": "Mantenha seu pequeno confortável e na moda com nossa cueca infantil com 4 botões. Feita com tecido macio e elástico, esta cueca proporciona ajuste confortável durante todo o dia. Com um estilo clássico e detalhes de botões, adiciona um toque de charme ao guarda-roupa do seu filho."
+            "desc": "Keep your little one comfortable and stylish with our infant boxer briefs featuring 4 buttons. Made with soft, stretchy fabric, these briefs provide a comfortable fit all day long. With a classic style and button details, they add a touch of charm to your child's wardrobe."
         },
 
         "produto7" : {
             "id": "7",
-            "nome": "Body Bebê Manga Curta",
+            "nome": "Short Sleeve Baby Bodysuit",
             "preco": "R$24,45",
             "imagem": "../assets/img/products/roupas7.png",
             "categoria" : "roupas",
             "promocao": false,
-            "cor": "Branco",
+            "cor": "White",
             "fornecedor": "EcoBaby",
-            "desc": "Feito com um tecido leve e macio, este body mantém seu pequeno confortável e estiloso mesmo nos dias mais quentes. A manga curta permite liberdade de movimento, enquanto o fecho com botões na parte inferior facilita na hora de vestir e trocar."
+            "desc": "Made with lightweight and soft fabric, this bodysuit keeps your little one comfortable and stylish even on the hottest days. The short sleeves allow freedom of movement, while the button closure at the bottom makes it easy to dress and change."
         },
         
         "produto8" : {
             "id": "8",
-            "nome": "Cueca Infantil",
+            "nome": "Children's Underwear",
             "preco": "R$16,99",
             "imagem": "../assets/img/products/roupas8.png",
             "categoria" : "roupas",
             "promocao": false,
-            "cor": "Branco e Azul (Listrado)",
+            "cor": "White and Blue (Striped)",
             "fornecedor": "",
-            "desc": "Prepare seu pequeno para um dia cheio de aventuras com nossa cueca infantil. Feita com tecido macio e confortável, esta cueca proporciona liberdade de movimento para brincadeiras sem fim. Com um design vibrante e divertido, é perfeita para inspirar a imaginação do seu filho. Além disso, a cintura elástica oferece um ajuste confortável que acompanha o crescimento do seu pequeno aventureiro."
+            "desc": "Get your little one ready for a day full of adventures with our children's underwear. Made with soft and comfortable fabric, this underwear provides freedom of movement for endless playtime. With a vibrant and fun design, it's perfect for inspiring your child's imagination. Plus, the elastic waistband offers a comfortable fit that accommodates your little adventurer's growth."
         },
         
         "produto9" : {
             "id": "9",
-            "nome": "Conjunto Calcinha Infantil",
+            "nome": "Children's Panty Set",
             "preco": "R$38,45",
             "imagem": "../assets/img/products/roupas9.png",
             "categoria" : "roupas",
             "promocao": true,
-            "cor": "Bege (Listrado)",
+            "cor": "Beige (Striped)",
             "fornecedor": "Happy Child",
-            "desc": "Ofereça conforto e praticidade ao dia a dia da sua pequena com nosso Conjunto Calcinha Infantil. Este conjunto apresenta três calcinhas simples, projetadas para garantir conforto e liberdade de movimento para sua bebê. Feitas com tecido macio e delicado, são ideais para a pele sensível dos pequenos. Escolha este conjunto para manter sua princesinha feliz e confortável em todos os momentos."
+            "desc": "Offer comfort and convenience to your little one's daily routine with our Children's Panty Set. This set features three simple panties, designed to ensure comfort and freedom of movement for your baby girl. Made with soft and delicate fabric, they are ideal for little one's sensitive skin. Choose this set to keep your little princess happy and comfortable at all times."
         },
         
         "produto10" : {
             "id": "10",
-            "nome": "Pijaminha de Veludo",
+            "nome": "Velvet Pajamas",
             "preco": "R$35,75",
             "imagem": "../assets/img/products/roupas10.png",
             "categoria" : "roupas",
             "promocao": false,
-            "cor": "Rosa",
+            "cor": "Pink",
             "fornecedor": "BabyHappy",
-            "desc": "Mantenha seu bebê aquecido e confortável com nosso pijaminha de veludo. Macio e aconchegante, é perfeito para noites frias, proporcionando um toque suave na pele delicada do seu pequeno. Com design prático e fácil de vestir, este pijaminha combina conforto e estilo para um sono tranquilo. Escolha bem-estar e elegância com nosso pijaminha de veludo."
+            "desc": "Keep your baby warm and comfortable with our velvet pajamas. Soft and cozy, they're perfect for cold nights, providing a gentle touch on your little one's delicate skin. With a practical design that's easy to put on, these pajamas combine comfort and style for peaceful sleep. Choose well-being and elegance with our velvet pajamas."
         },
         
         "produto11" : {
             "id": "11",
-            "nome": "Conjuntinho Infantil Feminino",
+            "nome": "Little Girl's Outfit",
             "preco": "R$18,29",
             "imagem": "../assets/img/products/roupas11.png",
             "categoria" : "roupas",
             "promocao": false,
-            "cor": "Rosa",
+            "cor": "Pink",
             "fornecedor": "EcoWorld",
-            "desc": "Encante sua pequena com nosso Conjunto Infantil Feminino. Composto por uma calcinha e um top simples, ambos na cor de rosa mais adorável, este conjunto é perfeito para momentos de diversão e conforto. Feito com tecido macio e delicado, proporciona o ajuste perfeito para a pele sensível da sua princesinha. O design simples e elegante destaca a beleza natural da criança, enquanto a cor rosa adiciona um toque de delicadeza e feminilidade. Este conjuntinho é a escolha ideal para dias ensolarados cheios de brincadeiras e sorrisos radiantes"
+            "desc": "Delight your little one with our Little Girl's Outfit. Comprising of a panties and a simple top, both in the most adorable shade of pink, this set is perfect for moments of fun and comfort. Made with soft and delicate fabric, it provides the perfect fit for your little princess's sensitive skin. The simple and elegant design highlights the child's natural beauty, while the pink color adds a touch of delicacy and femininity. This little set is the ideal choice for sunny days filled with playtime and radiant smiles."
         },
         
         "produto12" : {
             "id": "12",
-            "nome": "Body Bebê Manga Curta",
+            "nome": "Short Sleeve Baby Bodysuit",
             "preco": "R$24,45",
             "imagem": "../assets/img/products/roupas12.png",
             "categoria" : "roupas",
             "promocao": false,
-            "cor": "Branco",
+            "cor": "White",
             "fornecedor": "EcoBaby",
-            "desc": "Feito com um tecido leve e macio, este body mantém seu pequeno confortável e estiloso mesmo nos dias mais quentes. A manga curta permite liberdade de movimento, enquanto o fecho com botões na parte inferior facilita na hora de vestir e trocar."
+            "desc": "Made with lightweight and soft fabric, this bodysuit keeps your little one comfortable and stylish even on the hottest days. The short sleeves allow freedom of movement, while the button closure at the bottom makes it easy to dress and change."
         },
         
         "produto13" : {
             "id": "13",
-            "nome": "Meia Bebê 0-12 meses",
+            "nome": "Baby Socks 0-12 months",
             "preco": "R$18,90",
             "imagem": "../assets/img/products/roupas13.webp",
             "categoria" : "roupas",
             "promocao": true,
-            "cor": "Branca",
+            "cor": "White",
             "fornecedor": "Verdi Natural",
-            "desc": "Nossas meias para bebê são confeccionadas com algodão penteado de alta qualidade, garantindo o máximo de conforto e ajuste perfeito aos pezinhos delicados do seu pequeno. O algodão penteado é especialmente suave e durável, proporcionando uma sensação aconchegante e respirável que mantém os pés do bebê confortáveis durante todo o dia. Além disso, o ajuste elástico suave assegura que as meias permaneçam no lugar sem apertar, permitindo liberdade de movimento e protegendo a pele sensível dos bebês. Escolha nossas meias para um toque de carinho e conforto a cada passo."
+            "desc": "Our baby socks are crafted with high-quality combed cotton, ensuring maximum comfort and a perfect fit for your little one's delicate feet. Combed cotton is especially soft and durable, providing a cozy and breathable feel that keeps baby's feet comfortable all day long. Additionally, the gentle elastic fit ensures that the socks stay in place without being too tight, allowing freedom of movement and protecting sensitive baby skin. Choose our socks for a touch of care and comfort with every step."
         },
         
         "produto14" : {
             "id": "14",
-            "nome": "Meia Antiderrapante",
+            "nome": "Non-Slip Socks",
             "preco": "R$24,90",
             "imagem": "../assets/img/products/roupas14.webp",
             "categoria" : "roupas",
             "promocao": false,
-            "cor": "Azul Escuro",
+            "cor": "Dark Blue",
             "fornecedor": "Verdi Natural",
-            "desc": "A Meia Antiderrapante para Bebê é a solução ideal para os delicados pezinhos do seu pequeno. Feita de algodão penteado de alta qualidade, ela oferece máximo conforto e um ajuste perfeito. As borrachas antiderrapantes na sola proporcionam segurança extra, ajudando seu bebê a firmar os primeiros passinhos com confiança. Suave, respirável e segura, essa meia é essencial para garantir conforto e estabilidade nas primeiras aventuras do seu bebê."
+            "desc": "The Non-Slip Baby Sock is the ideal solution for your little one's delicate feet. Made from high-quality combed cotton, it offers maximum comfort and a perfect fit. The non-slip rubber grips on the sole provide extra security, helping your baby take their first steps with confidence. Soft, breathable, and secure, these socks are essential for ensuring comfort and stability during your baby's early adventures."
         },
         
         "produto15" : {
             "id": "15",
-            "nome": "Meia Antiderrapante com Lacinho",
+            "nome": "Non-Slip Socks with Bow",
             "preco": "R$24,90",
             "imagem": "../assets/img/products/roupas15.webp",
             "categoria" : "roupas",
             "promocao": true,
-            "cor": "Rosa e Branco",
+            "cor": "Pink and White",
             "fornecedor": "Verdi Natural",
-            "desc": "A Meia Antiderrapante para Bebê é a solução ideal para os delicados pezinhos do seu pequeno. Feita de algodão penteado de alta qualidade, ela oferece máximo conforto e um ajuste perfeito. As borrachas antiderrapantes na sola proporcionam segurança extra, ajudando seu bebê a firmar os primeiros passinhos com confiança. Suave, respirável e segura, essa meia é essencial para garantir conforto e estabilidade nas primeiras aventuras do seu bebê."
+            "desc": "The Non-Slip Baby Sock is the ideal solution for your little one's delicate feet. Made from high-quality combed cotton, it offers maximum comfort and a perfect fit. The non-slip rubber grips on the sole provide extra security, helping your baby take their first steps with confidence. Soft, breathable, and secure, these socks are essential for ensuring comfort and stability during your baby's early adventures."
         },
         
 
         "produto16" : {
             "id": "16",
-            "nome": "Toalha Umidecida Higiênica",
+            "nome": "Hygienic Wet Wipes",
             "preco": "R$14,99",
             "imagem": "../assets/img/products/higiene16.png",
             "categoria" : "higiene",
             "promocao": false,
-            "cor": "Padrão",
+            "cor": "Standard",
             "fornecedor": "Qualitá",
-            "desc": "Mantenha seu bebê limpo e confortável com nossas Toalhas Umedecidas Higiênicas. Feitas com ingredientes suaves e seguros para a pele delicada do seu pequeno, essas toalhas são ideais para trocas de fraldas, limpeza das mãos e rosto, ou qualquer momento que necessite de uma limpeza rápida e eficiente. Com fórmula hipoalergênica e sem álcool, proporcionam uma limpeza gentil sem irritações. Perfeitas para uso diário, em casa ou em passeios, garantindo frescor e higiene a qualquer hora."
+            "desc": "Keep your baby clean and comfortable with our Hygienic Wet Wipes. Made with gentle and safe ingredients for your little one's delicate skin, these wipes are ideal for diaper changes, hand and face cleaning, or any moment that requires quick and efficient cleaning. With a hypoallergenic and alcohol-free formula, they provide gentle cleansing without irritation. Perfect for daily use, at home or on the go, ensuring freshness and hygiene anytime."
         },
         
         "produto17" : {
             "id": "17",
-            "nome": "Kit Higiene",
+            "nome": "Hygiene Kit",
             "preco": "R$169,99",
             "imagem": "../assets/img/products/higiene17.png",
             "categoria" : "higiene",
             "promocao": false,
-            "cor": "Padrão",
+            "cor": "Standard",
             "fornecedor": "Kanui",
-            "desc": "Experimente o Kit Higiene em Barra Verdi Natural, uma solução completa e sustentável para a sua rotina diária. Inclui sabonete, sabonete íntimo, shampoo, condicionador e desodorante, todos em barra e feitos com ingredientes naturais para cuidar suavemente da sua pele e cabelos."
+            "desc": "Try the Bar Verdi Natural Hygiene Kit, a complete and sustainable solution for your daily routine. It includes soap, intimate soap, shampoo, conditioner, and deodorant, all in bar form and made with natural ingredients to gently care for your skin and hair."
         },
         
         "produto18" : {
             "id": "18",
-            "nome": "Shampoo em Barra",
+            "nome": "Shampoo Bar",
             "preco": "R$41,90",
             "imagem": "../assets/img/products/higiene18.png",
             "categoria" : "higiene",
             "promocao": false,
-            "cor": "Padrão",
+            "cor": "Standard",
             "fornecedor": "Kanui",
-            "desc": "Experimente o Shampoo Sólido Kanui, uma alternativa sustentável para a sua rotina de cuidados capilares. Formulado com ingredientes naturais, oferece uma limpeza suave e eficaz, deixando seus cabelos limpos, hidratados e revitalizados. Ideal para quem busca uma opção prática, econômica e ecologicamente consciente."
+            "desc": "Try the Kanui Solid Shampoo, a sustainable alternative for your hair care routine. Formulated with natural ingredients, it provides gentle and effective cleansing, leaving your hair clean, hydrated, and revitalized. Ideal for those seeking a practical, economical, and environmentally conscious option."
         },
         
         "produto19" : {
             "id": "19",
-            "nome": "Toalhas Umidecidas - 60 unidades",
+            "nome": "Wet Wipes - 60 units",
             "preco": "R$34,90",
             "imagem": "../assets/img/products/higiene19.png",
             "categoria" : "higiene",
             "promocao": false,
-            "cor": "Padrão",
+            "cor": "Standard",
             "fornecedor": "Mustela",
-            "desc": "Experimente as Toalhas Umedecidas, um aliado conveniente para a higiene do seu bebê. Com 60 unidades por embalagem, essas toalhas são perfeitas para limpeza rápida e suave em qualquer lugar. Feitas com ingredientes seguros e suaves, proporcionam frescor e conforto para a pele delicada do seu pequeno. Ideal para uso em casa, viagens ou momentos em movimento."
+            "desc": "Try the Wet Wipes, a convenient ally for your baby's hygiene. With 60 units per pack, these wipes are perfect for quick and gentle cleaning anywhere. Made with safe and gentle ingredients, they provide freshness and comfort for your little one's delicate skin. Ideal for use at home, during travel, or on-the-go moments."
         },
         
         "produto20" : {
             "id": "20",
-            "nome": "Creme Preventivo de Assaduras Suaves",
+            "nome": "Mild Diaper Rash Cream",
             "preco": "R$34,87",
             "imagem": "../assets/img/products/higiene20.png",
             "categoria" : "higiene",
             "promocao": false,
-            "cor": "Padrão",
+            "cor": "Standard",
             "fornecedor": "Bebê Natureza",
-            "desc": "Experimente o Creme Preventivo de Assaduras Suaves, uma solução delicada para a pele sensível do seu bebê. Com uma fórmula suave e eficaz, este creme proporciona uma camada protetora que previne e acalma as assaduras. Feito com ingredientes naturais e seguros, como manteiga de karité e óleo de coco, é ideal para uso diário. Proteja e cuide da pele do seu bebê com carinho e suavidade."
+            "desc": "Try the Mild Diaper Rash Cream, a gentle solution for your baby's sensitive skin. With a mild and effective formula, this cream provides a protective barrier that prevents and soothes diaper rash. Made with natural and safe ingredients like shea butter and coconut oil, it's ideal for daily use. Protect and care for your baby's skin with tenderness and gentleness."
         },
         
         "produto21" : {
             "id": "21",
-            "nome": "Creme Preventivo de Assaduras Bio Orgânico",
+            "nome": "Organic Bio Diaper Rash Preventive Cream",
             "preco": "R$53,90",
             "imagem": "../assets/img/products/higiene21.png",
             "categoria" : "higiene",
             "promocao": false,
-            "cor": "Padrão",
+            "cor": "Standard",
             "fornecedor": "Mustela",
-            "desc": "Experimente o Creme Preventivo de Assaduras Bio Orgânico, enriquecido com óleo de girassol, aloe vera e azeite de oliva. Esta fórmula delicada e natural proporciona uma camada protetora que previne e acalma as assaduras, enquanto hidrata e nutre a pele do seu bebê. Feito com ingredientes orgânicos certificados, é suave e seguro para uso diário. Proteja e cuide da pele do seu bebê de forma natural e eficaz."
+            "desc": "Try the Organic Bio Diaper Rash Preventive Cream, enriched with sunflower oil, aloe vera, and olive oil. This gentle and natural formula provides a protective barrier that prevents and soothes diaper rash while moisturizing and nourishing your baby's skin. Made with certified organic ingredients, it's gentle and safe for daily use. Protect and care for your baby's skin naturally and effectively."
         },
         
         "produto22" : {
             "id": "22",
-            "nome": "Pomada Mágica",
+            "nome": "Magic Ointment",
             "preco": "R$23,50",
             "imagem": "../assets/img/products/higiene22.png",
             "categoria" : "higiene",
             "promocao": false,
-            "cor": "Padrão",
+            "cor": "Standard",
             "fornecedor": "Pomada Mágica",
-            "desc": "Experimente nossa Pomada Mágica Vegana, uma solução incrível para cuidar da pele do seu bebê de forma natural e consciente. Feita com ingredientes vegetais e livres de produtos de origem animal, esta pomada oferece uma fórmula suave e eficaz para prevenir e tratar assaduras, irritações e pequenos ferimentos. Com uma mistura especial de óleos essenciais e extratos vegetais, proporciona hidratação, proteção e regeneração da pele. Cuide do seu bebê de uma maneira gentil, ética e sustentável com nossa Pomada Mágica Vegana."
+            "desc": "Try our Vegan Magic Ointment, an amazing solution for caring for your baby's skin naturally and consciously. Made with plant-based ingredients and free from animal-derived products, this ointment offers a gentle and effective formula to prevent and treat diaper rash, irritations, and minor wounds. With a special blend of essential oils and plant extracts, it provides hydration, protection, and skin regeneration. Take care of your baby in a gentle, ethical, and sustainable way with our Vegan Magic Ointment."
         },
         
         "produto23" : {
             "id": "23",
-            "nome": "Spray Hidratante",
+            "nome": "Moisturizing Spray",
             "preco": "R$54,90",
             "imagem": "../assets/img/products/higiene23.png",
             "categoria" : "higiene",
             "promocao": false,
-            "cor": "Padrão",
+            "cor": "Standard",
             "fornecedor": "Verdi Natural",
-            "desc": "Nosso Spray Hidratante Reparador Infantil 100% Natural é formulado com ingredientes naturais como Hidrolato de Lavanda, Aloe Vera, Calêndula, Óleo Essencial de Lavanda e Pantenol. Com textura leve e refrescante, hidrata pele e cabelos, sendo de rápida absorção. Sua fórmula líquida e oil-free contém Pantenol, que nutre e hidrata em segundos. O spray é de fácil aplicação e pode ser usado diariamente, sendo indicado para bebês, crianças e toda a família, proporcionando cuidado suave e eficaz."
+            "desc": "Our 100% Natural Infant Repairing Moisturizing Spray is formulated with natural ingredients such as Lavender Hydrosol, Aloe Vera, Calendula, Lavender Essential Oil, and Panthenol. With a light and refreshing texture, it hydrates skin and hair, being quickly absorbed. Its liquid and oil-free formula contains Panthenol, which nourishes and moisturizes in seconds. The spray is easy to apply and can be used daily, being suitable for babies, children, and the whole family, providing gentle and effective care."
         },
         
         "produto24" : {
             "id": "24",
-            "nome": "Toalhas Umedecidas - 64 unidades",
+            "nome": "Wet Wipes - 64 units",
             "preco": "R$16,50",
             "imagem": "../assets/img/products/higiene24.png",
             "categoria" : "higiene",
             "promocao": false,
-            "cor": "Padrão",
+            "cor": "Standard",
             "fornecedor": "Boots Baby",
-            "desc": "Experimente nossas Toalhas Umidecidas, com 64 unidades por embalagem, ideais para manter a pele do seu bebê limpa e fresca em qualquer lugar. Feitas com ingredientes suaves e seguros, são perfeitas para trocas de fraldas, limpeza das mãos e rosto, ou para qualquer momento que necessite de uma limpeza rápida e eficiente. Práticas e convenientes, proporcionam frescor e higiene onde quer que você esteja."
+            "desc": "Try our Wet Wipes, with 64 units per pack, ideal for keeping your baby's skin clean and fresh anywhere. Made with gentle and safe ingredients, they are perfect for diaper changes, hand and face cleaning, or for any moment that requires quick and efficient cleaning. Practical and convenient, they provide freshness and hygiene wherever you are."
         },
         
         "produto25" : {
             "id": "25",
-            "nome": "Toalhas Umedecidas - 96 unidades",
+            "nome": "Wet Wipes - 96 units",
             "preco": "R$23,99",
             "imagem": "../assets/img/products/higiene25.png",
             "categoria" : "higiene",
             "promocao": false,
-            "cor": "Padrão",
+            "cor": "Standard",
             "fornecedor": "Bepantol Baby",
-            "desc": "Experimente as Toalhas Umedecidas Bepantol Baby, com 96 unidades por embalagem, perfeitas para cuidar da pele delicada do seu bebê. Feitas com ingredientes suaves e seguros, como o Bepantol, proporcionam uma limpeza suave e eficaz, mantendo a pele do seu bebê limpa, hidratada e protegida. Práticas e convenientes, são ideais para uso diário em casa ou em movimento, oferecendo frescor e conforto a qualquer momento."
+            "desc": "Try the Bepantol Baby Wet Wipes, with 96 units per pack, perfect for caring for your baby's delicate skin. Made with gentle and safe ingredients, such as Bepantol, they provide gentle and effective cleaning, keeping your baby's skin clean, hydrated, and protected. Practical and convenient, they are ideal for daily use at home or on the go, offering freshness and comfort anytime."
         },
         
         "produto26" : {
             "id": "26",
-            "nome": "Desodorante Natural Spray",
+            "nome": "Natural Spray Deodorant",
             "preco": "R$38,99",
             "imagem": "../assets/img/products/higiene27.png",
             "categoria" : "higiene",
             "promocao": false,
-            "cor": "Padrão",
+            "cor": "Standard",
             "fornecedor": "Verdi Natural",
-            "desc": "Experimente nosso Desodorante Natural em Spray, uma opção eficaz e suave para manter-se fresco ao longo do dia. Feito com ingredientes naturais, como óleos essenciais e extratos vegetais, este desodorante oferece proteção duradoura contra o odor, sem obstruir os poros. Sua fórmula suave é ideal para todos os tipos de pele, proporcionando uma sensação de frescor e bem-estar. Com aplicação fácil e rápida absorção, mantenha-se confiante e confortável com nosso desodorante natural em spray."
+            "desc": "Try our Natural Spray Deodorant, an effective and gentle option to stay fresh throughout the day. Made with natural ingredients like essential oils and plant extracts, this deodorant provides long-lasting odor protection without clogging pores. Its gentle formula is suitable for all skin types, offering a feeling of freshness and well-being. With easy application and quick absorption, stay confident and comfortable with our natural spray deodorant."
         },
         
         "produto27" : {
             "id": "27",
-            "nome": "Hidratante Natural",
+            "nome": "Natural Moisturizer",
             "preco": "R$64,99",
             "imagem": "../assets/img/products/higiene28.png",
             "categoria" : "higiene",
             "promocao": false,
-            "cor": "Padrão",
+            "cor": "Standard",
             "fornecedor": "Verdi Natural",
-            "desc": "Experimente nosso Hidratante Natural, uma opção suave e eficaz para cuidar da sua pele. Formulado com ingredientes naturais, como óleos vegetais e manteigas, este hidratante proporciona uma hidratação profunda e duradoura, sem deixar uma sensação oleosa. Sua fórmula leve é rapidamente absorvida pela pele, deixando-a macia, suave e nutrida. Ideal para uso diário em todo o corpo, mantenha sua pele saudável e radiante com nosso hidratante natural."
+            "desc": "Try our Natural Moisturizer, a gentle and effective option for taking care of your skin. Formulated with natural ingredients like vegetable oils and butters, this moisturizer provides deep and long-lasting hydration without leaving a greasy feeling. Its lightweight formula is quickly absorbed by the skin, leaving it soft, smooth, and nourished. Ideal for daily use all over the body, keep your skin healthy and radiant with our natural moisturizer."
         },
         
         "produto28" : {
             "id": "28",
-            "nome": "Creme Preventivo de Assaduras",
+            "nome": "Diaper Rash Preventive Cream",
             "preco": "R$49,90",
             "imagem": "../assets/img/products/higiene28.webp",
             "categoria" : "higiene",
             "promocao": false,
-            "cor": "Padrão",
+            "cor": "Standard",
             "fornecedor": "Verdi Natural",
-            "desc": "O Creme Preventivo de Assaduras Verdi Natural oferece proteção e cuidado 100% natural para o seu bebê. Com ação protetora, calmante e anti-inflamatória, previne e trata assaduras, além de hidratar a pele. Ideal para trocas diárias de fralda, é formulado com ingredientes naturais e conservantes aprovados (COSMOS), garantindo um cuidado seguro e carinhoso para a pele delicada do seu bebê."
+            "desc": "The Verdi Natural Diaper Rash Preventive Cream provides 100% natural protection and care for your baby. With protective, soothing, and anti-inflammatory action, it prevents and treats diaper rash while moisturizing the skin. Ideal for daily diaper changes, it is formulated with natural ingredients and approved preservatives (COSMOS), ensuring safe and caring care for your baby's delicate skin."
         },
         
         "produto29" : {
             "id": "29",
-            "nome": "Protetor Solar Natural",
+            "nome": "Natural Sunscreen",
             "preco": "R$109,90",
             "imagem": "../assets/img/products/higiene29.webp",
             "categoria" : "higiene",
             "promocao": false,
-            "cor": "Padrão",
+            "cor": "Standard",
             "fornecedor": "Verdi Natural",
-            "desc": "Proteja sua pele e a dos seus pequenos com nosso Protetor Solar Natural. Formulado com ingredientes naturais como Dióxido de Titânio e Óxido de Zinco, ele cria uma barreira física de longa duração contra os raios UVA e UVB. Enriquecido com Manteiga de Karité, Óleo de Cenoura, Cera de Abelha e Óleo de Abacate, este protetor solar nutre e hidrata a pele, enquanto o Conservante ECOCERT garante a segurança e eficácia do produto. Ideal para toda a família, nosso protetor solar oferece proteção confiável e cuidado suave para a pele."
+            "desc": "Protect your skin and that of your little ones with our Natural Sunscreen. Formulated with natural ingredients like Titanium Dioxide and Zinc Oxide, it creates a long-lasting physical barrier against UVA and UVB rays. Enriched with Shea Butter, Carrot Oil, Beeswax, and Avocado Oil, this sunscreen nourishes and moisturizes the skin, while the ECOCERT Preservative ensures the safety and efficacy of the product. Ideal for the whole family, our sunscreen offers reliable protection and gentle care for the skin."
         },
         
         "produto30" : {
             "id": "30",
-            "nome": "Espuma de Banho Colorida",
+            "nome": "Colorful Bath Foam",
             "preco": "R$74,90",
             "imagem": "../assets/img/products/higiene30.webp",
             "categoria" : "higiene",
             "promocao": false,
-            "cor": "Padrão",
+            "cor": "Standard",
             "fornecedor": "Verdi Natural",
-            "desc": "Transforme a hora do banho em uma experiência mágica com a Espuma de Banho Colorida Verdi Natural. Feita para a pele sensível de bebês e crianças, sua fórmula com Clorofila, Hidrolatos de Lemongrass e Hortelã, Óleo Essencial de Lavanda e Manteiga de Karité oferece cuidado e diversão. Nutre e protege a pele, tornando cada banho uma lembrança especial."
+            "desc": "Transform bath time into a magical experience with Verdi Natural Colorful Bath Foam. Made for the sensitive skin of babies and children, its formula with Chlorophyll, Lemongrass and Mint Hydrosols, Lavender Essential Oil, and Shea Butter offers care and fun. It nourishes and protects the skin, making each bath a special memory."
         },
         
         "produto31" : {
             "id": "31",
-            "nome": "Avião de Madeira",
+            "nome": "Wooden Airplane",
             "preco": "R$7,99",
             "imagem": "../assets/img/products/brinquedos31.png",
             "categoria" : "brinquedos",
             "promocao": false,
-            "cor": "Madeira",
+            "cor": "Wood",
             "fornecedor": "Estrela",
-            "desc": "Inspire a imaginação do seu pequeno com o Avião de Madeira. Feito à mão com madeira de alta qualidade, este brinquedo clássico combina durabilidade e charme atemporal. O design detalhado e a construção robusta garantem horas de diversão e criatividade, enquanto a textura natural da madeira oferece uma sensação táctil agradável. Perfeito para crianças e colecionadores, este avião é uma adição encantadora a qualquer brinquedoteca."
+            "desc": "Inspire your little one's imagination with the Wooden Airplane. Handcrafted from high-quality wood, this classic toy combines durability and timeless charm. The detailed design and sturdy construction ensure hours of fun and creativity, while the natural texture of the wood offers a pleasant tactile sensation. Perfect for children and collectors alike, this airplane is a charming addition to any toy collection."
         },
         
         "produto32" : {
             "id": "32",
-            "nome": "Mordedor 4 Luas Sensorial",
+            "nome": "Sensory 4 Moon Teether",
             "preco": "R$64,99",
             "imagem": "../assets/img/products/brinquedos32.png",
             "categoria" : "brinquedos",
             "promocao": false,
-            "cor": "Colorido",
+            "cor": "Multicolor",
             "fornecedor": "Montessori",
-            "desc": "Proporcione alívio e diversão ao seu bebê com o Mordedor Sensorial 4 Luas. Feito de materiais seguros e duráveis, este mordedor é perfeito para aliviar o desconforto da dentição. Seu design exclusivo com quatro luas texturizadas oferece diferentes sensações táteis, estimulando o desenvolvimento sensorial do bebê. Fácil de segurar e ideal para mãos pequenas, este mordedor é a combinação perfeita de cuidado e entretenimento para os primeiros anos de vida do seu pequeno."
+            "desc": "Provide relief and fun to your baby with the Sensory 4 Moon Teether. Made from safe and durable materials, this teether is perfect for soothing teething discomfort. Its unique design with four textured moons offers different tactile sensations, stimulating your baby's sensory development. Easy to grip and ideal for little hands, this teether is the perfect combination of care and entertainment for your little one's early years."
         },
         
         "produto33" : {
             "id": "33",
-            "nome": "Chocalho em Crochê",
+            "nome": "Crochet Rattle",
             "preco": "R$32,39",
             "imagem": "../assets/img/products/brinquedos33.png",
             "categoria" : "brinquedos",
             "promocao": false,
-            "cor": "Colorido",
+            "cor": "Multicolor",
             "fornecedor": "EcoBaby",
-            "desc": "Encante seu bebê com o Chocalho em Crochê. Feito à mão com fios de algodão macio e enchimento seguro, este chocalho combina beleza e funcionalidade. Seu som suave estimula a audição, enquanto as texturas variadas do crochê ajudam no desenvolvimento sensorial. Perfeito para mãos pequenas, é fácil de segurar e seguro para morder. Este chocalho é mais que um brinquedo: é uma peça artesanal que traz conforto e diversão ao seu bebê."
+            "desc": "Delight your baby with the Crochet Rattle. Handcrafted with soft cotton yarn and safe stuffing, this rattle combines beauty and functionality. Its gentle sound stimulates hearing, while the varied textures of crochet aid in sensory development. Perfect for little hands, it's easy to grip and safe to chew on. This rattle is more than a toy: it's a handmade piece that brings comfort and fun to your baby."
         },
         
         "produto34" : {
             "id": "34",
-            "nome": "Mordedor Sensorial com Argola",
+            "nome": "Sensory Teether with Ring",
             "preco": "R$38,89",
             "imagem": "../assets/img/products/brinquedos34.png",
             "categoria" : "brinquedos",
             "promocao": false,
-            "cor": "Colorido",
+            "cor": "Multicolor",
             "fornecedor": "Estrela",
-            "desc": "Alivie o desconforto da dentição do seu bebê com o Mordedor Sensorial com Argola. Feito de materiais seguros e duráveis, este mordedor possui uma argola fácil de segurar e várias texturas para estimular o desenvolvimento sensorial. As diferentes superfícies ajudam a massagear as gengivas do bebê, proporcionando alívio durante a fase de dentição. Ideal para mãos pequenas, é perfeito para manter seu bebê confortável e entretido."
+            "desc": "Relieve your baby's teething discomfort with the Sensory Teether with Ring. Made from safe and durable materials, this teether features an easy-to-grip ring and various textures to stimulate sensory development. The different surfaces help massage your baby's gums, providing relief during the teething phase. Ideal for little hands, it's perfect for keeping your baby comfortable and entertained."
         },
         
         "produto35" : {
             "id": "35",
-            "nome": "Cofre Cachorrinho",
+            "nome": "Doggy Coin Bank",
             "preco": "R$10,55",
             "imagem": "../assets/img/products/brinquedos35.png",
             "categoria" : "brinquedos",
             "promocao": false,
-            "cor": "Madeira",
+            "cor": "Wood",
             "fornecedor": "EcoBaby",
-            "desc": "Ensine seu pequeno sobre economia de forma divertida com o Cofre Cachorrinho. Feito de material durável e seguro, este cofre em forma de adorável cachorrinho não só guarda as economias, mas também decora o quarto com seu charme. Com uma abertura fácil para retirar as moedas, é perfeito para incentivar as crianças a poupar desde cedo. Adicione um toque de diversão e aprendizado à rotina financeira do seu filho com este encantador cofre cachorrinho."
+            "desc": "Teach your little one about saving money in a fun way with the Doggy Coin Bank. Made of durable and safe material, this adorable dog-shaped bank not only stores savings but also decorates the room with its charm. With an easy opening to retrieve coins, it's perfect for encouraging kids to save from an early age. Add a touch of fun and learning to your child's financial routine with this charming doggy bank."
         },
         
         "produto36" : {
             "id": "36",
-            "nome": "Conjunto 4 Carrinhos de Dinossauro",
+            "nome": "Dinosaur 4-Car Set",
             "preco": "R$19,99",
             "imagem": "../assets/img/products/brinquedos36.png",
             "categoria" : "brinquedos",
             "promocao": false,
-            "cor": "Madeira",
+            "cor": "Wood",
             "fornecedor": "KidJoy",
-            "desc": "Mergulhe no mundo da diversão pré-histórica com o Conjunto 4 Carrinhos de Dinossauro. Cada carrinho é inspirado em um dinossauro diferente, combinando a emoção das corridas com o fascínio dos dinossauros. Feitos de materiais duráveis e seguros, esses carrinhos são perfeitos para mãos pequenas e resistem a horas de brincadeira. Ideal para estimular a imaginação e a coordenação motora, este conjunto é uma adição fantástica à coleção de brinquedos do seu pequeno explorador."
+            "desc": "Immerse yourself in the world of prehistoric fun with the Dinosaur 4-Car Set. Each car is inspired by a different dinosaur, combining the thrill of racing with the fascination of dinosaurs. Made from durable and safe materials, these cars are perfect for little hands and withstand hours of play. Ideal for stimulating imagination and motor skills, this set is a fantastic addition to your little explorer's toy collection."
         },
         
         "produto37" : {
             "id": "37",
-            "nome": "Carrinho de Madeira",
+            "nome": "Wooden Car",
             "preco": "R$4,99",
             "imagem": "../assets/img/products/brinquedos37.png",
             "categoria" : "brinquedos",
             "promocao": false,
-            "cor": "Madeira",
+            "cor": "Wood",
             "fornecedor": "Estrela",
-            "desc": "Feito à mão com madeira de alta qualidade, este carrinho combina durabilidade e um design encantador. Suas linhas simples e acabamento suave são perfeitos para mãos pequenas, incentivando a criatividade e a imaginação durante a brincadeira. Ideal para crianças de todas as idades, o Carrinho de Madeira é uma peça durável que garante horas de diversão e se torna uma lembrança querida."
+            "desc": "Handcrafted from high-quality wood, this car combines durability with a charming design. Its simple lines and smooth finish are perfect for little hands, encouraging creativity and imagination during playtime. Ideal for children of all ages, the Wooden Car is a durable piece that ensures hours of fun and becomes a cherished keepsake."
         },
         
         "produto38" : {
             "id": "38",
-            "nome": "Cofre Câmera",
+            "nome": "Camera Coin Bank",
             "preco": "R$12,65",
             "imagem": "../assets/img/products/brinquedos38.png",
             "categoria" : "brinquedos",
             "promocao": false,
-            "cor": "Madeira",
+            "cor": "Wood",
             "fornecedor": "EcoBaby",
-            "desc": "Com um design criativo que imita uma câmera fotográfica vintage, este cofre é perfeito para decorar qualquer ambiente enquanto guarda suas moedas e notas com segurança. Feito de materiais duráveis e seguros, possui uma abertura fácil para retirar as economias quando necessário. Ideal para incentivar a prática de poupar, o Cofre Câmera é tanto funcional quanto decorativo, tornando a economia divertida e estilosa."
+            "desc": "With a creative design that mimics a vintage camera, this coin bank is perfect for decorating any space while securely storing your coins and bills. Made of durable and safe materials, it features an easy opening to retrieve savings when needed. Ideal for encouraging the practice of saving, the Camera Coin Bank is both functional and decorative, making saving money fun and stylish."
         },
         
         "produto39" : {
             "id": "39",
-            "nome": "Cabana de Madeira",
+            "nome": "Wooden Cabin",
             "preco": "R$388,90",
             "imagem": "../assets/img/products/brinquedos39.png",
             "categoria" : "brinquedos",
             "promocao": false,
-            "cor": "Madeira",
+            "cor": "Wood",
             "fornecedor": "Ri Happy",
-            "desc": "Feita com madeira de alta qualidade, esta cabana oferece um refúgio seguro e encantador para as crianças. Seu design robusto e elegante se adapta perfeitamente a qualquer ambiente, seja no quarto, sala de estar ou jardim. Fácil de montar e desmontar, é ideal para estimular a imaginação e proporcionar horas de diversão. Transforme o espaço de brincadeira do seu pequeno em um verdadeiro refúgio de sonhos com esta linda cabana de madeira."
+            "desc": "Crafted from high-quality wood, this cabin provides a safe and charming retreat for children. Its sturdy and elegant design fits perfectly in any setting, whether in the bedroom, living room, or garden. Easy to assemble and disassemble, it's ideal for stimulating imagination and providing hours of fun. Transform your little one's play space into a true dream retreat with this beautiful wooden cabin."
         },
         
         "produto40" : {
             "id": "40",
-            "nome": "Cofre Gatinho",
+            "nome": "Kitty Coin Bank",
             "preco": "R$10,55",
             "imagem": "../assets/img/products/brinquedos40.png",
             "categoria" : "brinquedos",
             "promocao": false,
-            "cor": "Madeira",
+            "cor": "Wood",
             "fornecedor": "EcoBaby",
-            "desc": "Este adorável cofre em formato de gatinho é perfeito para incentivar as crianças a poupar de maneira lúdica. Feito de materiais duráveis e seguros, ele não só protege as economias, mas também adiciona um toque encantador à decoração do quarto. Com uma abertura fácil para retirar as moedas, é prático e funcional."
+            "desc": "This adorable kitty-shaped coin bank is perfect for encouraging children to save in a playful way. Made of durable and safe materials, it not only protects savings but also adds a charming touch to the room's decor. With an easy opening to retrieve coins, it's practical and functional."
         },
         
         "produto41" : {
             "id": "41",
-            "nome": "Carrinho de Jacaré",
+            "nome": "Alligator Push Toy",
             "preco": "R$19,99",
             "imagem": "../assets/img/products/brinquedos41.png",
             "categoria" : "brinquedos",
             "promocao": false,
-            "cor": "Madeira",
+            "cor": "Wood",
             "fornecedor": "Estrela",
-            "desc": "O Carrinho de Jacaré é uma divertida opção de brinquedo para crianças explorarem aventuras imaginárias. Feito de materiais seguros e duráveis, possui um design vibrante em forma de jacaré. Ideal para mãos pequenas, é resistente e promove o desenvolvimento motor das crianças."
+            "desc": "The Alligator Push Toy is a fun toy option for children to explore imaginative adventures. Made of safe and durable materials, it features a vibrant alligator-shaped design. Ideal for little hands, it's sturdy and promotes children's motor development."
         },
         
         "produto42" : {
             "id": "42",
-            "nome": "Chocalho de Madeira",
+            "nome": "Wooden Rattle",
             "preco": "R$8,99",
             "imagem": "../assets/img/products/brinquedos42.png",
             "categoria" : "brinquedos",
             "promocao": false,
-            "cor": "Madeira",
+            "cor": "Wood",
             "fornecedor": "EcoBaby",
-            "desc": "O Chocalho de Madeira é um brinquedo clássico e encantador para bebês. Feito de madeira natural, é seguro para morder e explorar. Seu design simples e robusto é perfeito para pequenas mãos segurarem e agitarem. Além de estimular os sentidos do bebê, promove o desenvolvimento da coordenação motora. Um brinquedo atemporal que proporciona diversão e aprendizado para os pequenos."
+            "desc": "The Wooden Rattle is a classic and charming toy for babies. Made of natural wood, it's safe for teething and exploration. Its simple and sturdy design is perfect for little hands to grasp and shake. In addition to stimulating the baby's senses, it promotes the development of motor coordination. A timeless toy that provides fun and learning for little ones."
         },
         
         "produto43" : {
             "id": "43",
-            "nome": "Trenzinho de Madeira Autoadesivo",
+            "nome": "Self-Adhesive Wooden Train",
             "preco": "R$29,99",
             "imagem": "../assets/img/products/brinquedos43.jpg",
             "categoria" : "brinquedos",
             "promocao": false,
-            "cor": "Madeira",
+            "cor": "Wood",
             "fornecedor": "Ri Happy",
-            "desc": "Este adorável brinquedo de parede é feito de madeira de alta qualidade e apresenta um trenzinho com vagões cheios de personagens encantadores, liderados pelo Sr. Urso. Fácil de aplicar, o adesivo mantém o trenzinho firmemente na parede, proporcionando uma decoração interativa e divertida. Ideal para estimular a imaginação e a coordenação motora, é perfeito para qualquer espaço infantil."
+            "desc": "This adorable wall toy is made of high-quality wood and features a train with wagons full of charming characters, led by Mr. Bear. Easy to apply, the adhesive keeps the train firmly on the wall, providing an interactive and fun decoration. Ideal for stimulating imagination and motor coordination, it's perfect for any children's space."
         },
         
         "produto44" : {
             "id": "44",
-            "nome": "Mesa de Atividades - Fazendinha",
+            "nome": "Farm Activity Table",
             "preco": "R$449,99",
             "imagem": "../assets/img/products/brinquedos44.jpg",
             "categoria" : "brinquedos",
             "promocao": false,
-            "cor": "Madeira, Colorido",
+            "cor": "Wood, Multicolor",
             "fornecedor": "Ri Happy",
-            "desc": "Transforme o aprendizado em uma divertida aventura com a Mesa de Atividades Fazendinha. Este brinquedo educativo é feito de materiais duráveis e seguros, com um design encantador de fazendinha. A mesa inclui várias atividades interativas, como encaixar formas, deslizar peças e girar engrenagens, todas inspiradas na vida na fazenda. Ideal para estimular a coordenação motora, a criatividade e o reconhecimento de formas e cores, esta mesa de atividades é perfeita para crianças pequenas explorarem e aprenderem enquanto brincam. Proporcione horas de diversão educativa com a Mesa de Atividades Fazendinha."
+            "desc": "Turn learning into a fun adventure with the Farm Activity Table. This educational toy is made of durable and safe materials, featuring a charming farm design. The table includes various interactive activities such as shape sorting, sliding pieces, and spinning gears, all inspired by farm life. Ideal for stimulating motor skills, creativity, and shape and color recognition, this activity table is perfect for young children to explore and learn while playing. Provide hours of educational fun with the Farm Activity Table."
         },
         
         "produto45" : {
             "id": "45",
-            "nome": "Brinquedo Educativo - Letras e Números",
+            "nome": "Educational Toy - Letters and Numbers",
             "preco": "R$79,90",
             "imagem": "../assets/img/products/brinquedos45.jpg",
             "categoria" : "brinquedos",
             "promocao": false,
-            "cor": "Madeira",
+            "cor": "Wood",
             "fornecedor": "Ri Happy",
-            "desc": "Estimule o aprendizado e a diversão com o Brinquedo Educativo de Encaixar Peças de Letras e Números em Madeira. Este brinquedo clássico é feito de madeira de alta qualidade, oferecendo durabilidade e segurança para as crianças. Com peças coloridas em formato de letras e números, ele ajuda no desenvolvimento das habilidades motoras finas, reconhecimento de formas e cores, além de introduzir conceitos básicos de alfabetização e matemática. Ideal para crianças em fase de aprendizado, é uma maneira divertida e educativa de explorar o mundo das letras e números."
+            "desc": "Encourage learning and fun with the Wooden Letter and Number Sorting Educational Toy. This classic toy is made of high-quality wood, offering durability and safety for children. With colorful pieces shaped like letters and numbers, it helps develop fine motor skills, shape and color recognition, as well as introduce basic literacy and math concepts. Ideal for children in the learning phase, it's a fun and educational way to explore the world of letters and numbers."
         },
         
         "produto46" : {
             "id": "46",
-            "nome": "Almofada para Amamentação",
+            "nome": "Nursing Pillow",
             "preco": "R$82,99",
             "imagem": "../assets/img/products/mamaes46.png",
             "categoria" : "mamaes",
             "promocao": false,
-            "cor": "Branca",
+            "cor": "White",
             "fornecedor": "EcoBaby",
-            "desc": "Torne a amamentação mais confortável e prática com a Almofada para Amamentação. Projetada ergonomicamente, esta almofada oferece suporte ideal para a mãe e o bebê durante as sessões de amamentação. Feita com materiais macios e de alta qualidade, proporciona um apoio firme, ajudando a reduzir a tensão nos braços, ombros e pescoço da mãe. A capa removível e lavável facilita a limpeza, garantindo higiene e praticidade."
+            "desc": "Make breastfeeding more comfortable and convenient with the Nursing Pillow. Designed ergonomically, this pillow provides optimal support for both mother and baby during nursing sessions. Made with soft, high-quality materials, it offers firm support, helping to reduce strain on the mother's arms, shoulders, and neck. The removable and washable cover makes cleaning easy, ensuring hygiene and practicality."
         },
         
         "produto47" : {
             "id": "47",
-            "nome": "Canguru - Sling",
+            "nome": "Baby Carrier - Sling",
             "preco": "R$279,99",
             "imagem": "../assets/img/products/mamaes47.png",
             "categoria" : "mamaes",
             "promocao": false,
-            "cor": "Terracota",
+            "cor": "Terracotta",
             "fornecedor": "EcoBaby",
-            "desc": "Mantenha seu bebê perto e seguro com o Canguru Sling. Feito de tecido macio e respirável, este sling oferece conforto e suporte tanto para o bebê quanto para o cuidador. Seu design ergonômico distribui uniformemente o peso, reduzindo a tensão nos ombros e nas costas. Fácil de ajustar, é ideal para uso em diversas posições, promovendo um vínculo mais forte e proporcionando liberdade de movimento. Perfeito para passeios, atividades em casa ou viagens, o Canguru Sling é a escolha ideal para manter seu bebê confortável e acolhido."
+            "desc": "Keep your baby close and secure with the Sling Baby Carrier. Made of soft, breathable fabric, this sling provides comfort and support for both the baby and the caregiver. Its ergonomic design evenly distributes weight, reducing strain on the shoulders and back. Easy to adjust, it's ideal for use in various positions, promoting a stronger bond and providing freedom of movement. Perfect for outings, activities at home, or travel, the Sling Baby Carrier is the ideal choice to keep your baby comfortable and snug."
         },
         
         "produto48" : {
             "id": "48",
-            "nome": "Almofada para Amamentação",
+            "nome": "Nursing Pillow",
             "preco": "R$44,99",
             "imagem": "../assets/img/products/mamaes48.png",
             "categoria" : "mamaes",
             "promocao": false,
-            "cor": "Branca",
+            "cor": "White",
             "fornecedor": "EcoBaby",
-            "desc": "Torne a amamentação mais confortável e prática com a Almofada para Amamentação. Projetada ergonomicamente, esta almofada oferece suporte ideal para a mãe e o bebê durante as sessões de amamentação. Feita com materiais macios e de alta qualidade, proporciona um apoio firme, ajudando a reduzir a tensão nos braços, ombros e pescoço da mãe. A capa removível e lavável facilita a limpeza, garantindo higiene e praticidade."
+            "desc": "Make breastfeeding more comfortable and convenient with the Nursing Pillow. Designed ergonomically, this pillow provides optimal support for both mother and baby during nursing sessions. Made with soft, high-quality materials, it offers firm support, helping to reduce strain on the mother's arms, shoulders, and neck. The removable and washable cover makes cleaning easy, ensuring hygiene and practicality."
         },
         
         "produto49" : {
             "id": "49",
-            "nome": "Kit - 5 Pares de Absorvente para Seios",
+            "nome": "Kit - 5 Pairs of Breast Pads",
             "preco": "R$59,99",
             "imagem": "../assets/img/products/mamaes49.png",
             "categoria" : "mamaes",
             "promocao": false,
-            "cor": "Colorido",
+            "cor": "Multicolor",
             "fornecedor": "EcoBaby",
-            "desc": "Mantenha-se seca e confortável durante a amamentação com o Kit de 5 Pares de Absorventes para Seios. Feitos de materiais macios e absorventes, esses absorventes reutilizáveis protegem contra vazamentos, mantendo sua pele e suas roupas secas. O design discreto e contornado se ajusta perfeitamente ao sutiã, proporcionando conforto durante todo o dia. Fáceis de lavar e reutilizar, são uma opção prática e ecológica para mães que amamentam"
+            "desc": "Stay dry and comfortable during breastfeeding with the Kit of 5 Pairs of Breast Pads. Made of soft and absorbent materials, these reusable pads protect against leaks, keeping your skin and clothes dry. The discreet and contoured design fits perfectly into your bra, providing comfort throughout the day. Easy to wash and reuse, they are a practical and eco-friendly option for breastfeeding mothers."
         },
         
         "produto50" : {
             "id": "50",
-            "nome": "Almofada para Amamentação - Animais",
+            "nome": "Nursing Pillow - Animals",
             "preco": "R$84,99",
             "imagem": "../assets/img/products/mamaes50.png",
             "categoria" : "mamaes",
             "promocao": false,
-            "cor": "Verde",
+            "cor": "Green",
             "fornecedor": "EcoBaby",
-            "desc": "Torne a amamentação mais confortável e prática com a Almofada para Amamentação. Projetada ergonomicamente, esta almofada oferece suporte ideal para a mãe e o bebê durante as sessões de amamentação. Feita com materiais macios e de alta qualidade, proporciona um apoio firme, ajudando a reduzir a tensão nos braços, ombros e pescoço da mãe. A capa removível e lavável facilita a limpeza, garantindo higiene e praticidade."
+            "desc": "Make breastfeeding more comfortable and practical with the Nursing Pillow. Ergonomically designed, this pillow provides optimal support for both mother and baby during breastfeeding sessions. Made with soft and high-quality materials, it offers firm support, helping to reduce tension in the mother's arms, shoulders, and neck. The removable and washable cover makes cleaning easy, ensuring hygiene and convenience."
         },
         
         "produto51" : {
             "id": "51",
-            "nome": "Almofada para Amamentação - Animais",
+            "nome": "Nursing Pillow - Animals",
             "preco": "R$84,99",
             "imagem": "../assets/img/products/mamaes51.png",
             "categoria" : "mamaes",
             "promocao": false,
-            "cor": "Branca",
+            "cor": "White",
             "fornecedor": "EcoBaby",
-            "desc": "Torne a amamentação mais confortável e prática com a Almofada para Amamentação. Projetada ergonomicamente, esta almofada oferece suporte ideal para a mãe e o bebê durante as sessões de amamentação. Feita com materiais macios e de alta qualidade, proporciona um apoio firme, ajudando a reduzir a tensão nos braços, ombros e pescoço da mãe. A capa removível e lavável facilita a limpeza, garantindo higiene e praticidade."
+            "desc": "Make breastfeeding more comfortable and practical with the Nursing Pillow. Ergonomically designed, this pillow provides optimal support for both mother and baby during breastfeeding sessions. Made with soft and high-quality materials, it offers firm support, helping to reduce tension in the mother's arms, shoulders, and neck. The removable and washable cover makes cleaning easy, ensuring hygiene and convenience."
         },
         
         "produto52" : {
             "id": "52",
-            "nome": "Canguru - Sling",
+            "nome": "Sling Baby Carrier",
             "preco": "R$344,99",
             "imagem": "../assets/img/products/mamaes52.png",
             "categoria" : "mamaes",
             "promocao": false,
-            "cor": "Azul",
+            "cor": "Blue",
             "fornecedor": "EcoBaby",
-            "desc": "Mantenha seu bebê perto e seguro com o Canguru Sling. Feito de tecido macio e respirável, este sling oferece conforto e suporte tanto para o bebê quanto para o cuidador. Seu design ergonômico distribui uniformemente o peso, reduzindo a tensão nos ombros e nas costas. Fácil de ajustar, é ideal para uso em diversas posições, promovendo um vínculo mais forte e proporcionando liberdade de movimento. Perfeito para passeios, atividades em casa ou viagens, o Canguru Sling é a escolha ideal para manter seu bebê confortável e acolhido."
+            "desc": "Keep your baby close and secure with the Sling Baby Carrier. Made from soft, breathable fabric, this sling provides comfort and support for both baby and caregiver. Its ergonomic design evenly distributes weight, reducing strain on shoulders and back. Easy to adjust, it's suitable for various positions, fostering a stronger bond and allowing freedom of movement. Perfect for outings, home activities, or travel, the Sling Baby Carrier is the ideal choice to keep your baby cozy and content."
         },
         
         "produto53" : {
             "id": "53",
-            "nome": "Canguru - Sling Crochê",
+            "nome": "Crochet Sling Carrier",
             "preco": "R$324,99",
             "imagem": "../assets/img/products/mamaes53.png",
             "categoria" : "mamaes",
             "promocao": false,
-            "cor": "Verde",
+            "cor": "Green",
             "fornecedor": "EcoBaby",
-            "desc": "Carregue seu bebê com estilo e conforto com o Canguru Sling de Crochê. Feito à mão com fios de algodão macios e respiráveis, este sling oferece suporte seguro e acolhedor para o seu bebê. Seu design ergonômico distribui o peso uniformemente, reduzindo a tensão nos ombros e nas costas do cuidador. Fácil de ajustar, é ideal para várias posições de transporte, promovendo um vínculo mais próximo entre você e seu bebê. Perfeito para passeios, atividades em casa ou momentos de descanso, o Canguru Sling de Crochê é uma escolha charmosa e prática para pais modernos."
+            "desc": "Carry your baby in style and comfort with the Crochet Sling Carrier. Handcrafted with soft and breathable cotton yarn, this sling offers secure and cozy support for your baby. Its ergonomic design distributes weight evenly, reducing strain on the shoulders and back of the caregiver. Easy to adjust, it's ideal for various carrying positions, fostering a closer bond between you and your baby. Perfect for outings, activities at home, or moments of relaxation, the Crochet Sling Carrier is a charming and practical choice for modern parents."
         },
         
         "produto54" : {
             "id": "54",
-            "nome": "Mochila Canguru - Algodão",
+            "nome": "Baby Carrier Backpack - Cotton",
             "preco": "R$426,50",
             "imagem": "../assets/img/products/mamaes54.png",
             "categoria" : "mamaes",
             "promocao": false,
-            "cor": "Verde",
+            "cor": "Green",
             "fornecedor": "EcoBaby",
-            "desc": ""
+            "desc": "Designed for comfort and convenience, this backpack provides ergonomic support for both baby and caregiver. Made with durable and breathable materials, it features adjustable straps that evenly distribute weight, relieving tension on the shoulders and back. With multiple carrying positions, it's ideal for different stages of baby's growth. Includes convenient pockets for storing essential items, making it perfect for outings and daily activities."
         },
         
         "produto55" : {
             "id": "55",
-            "nome": "",
-            "preco": "",
+            "nome": "Kit - 2 Pairs of Breast Pads",
+            "preco": "R$23,99",
             "imagem": "../assets/img/products/mamaes55.png",
             "categoria" : "mamaes",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "Multicolor",
+            "fornecedor": "EcoBaby",
+            "desc": "Crafted from soft and highly absorbent materials, these reusable pads keep skin and clothing dry, preventing leaks. Their slim, contoured design discreetly fits into the bra, providing comfort throughout the day. Easy to wash and reuse, they're a practical and eco-friendly choice for breastfeeding mothers."
         },
         
         "produto56" : {
             "id": "56",
-            "nome": "",
-            "preco": "",
+            "nome": "Pair of Breast Pads",
+            "preco": "R$11,99",
             "imagem": "../assets/img/products/mamaes56.png",
             "categoria" : "mamaes",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "Multicolor",
+            "fornecedor": "EcoBaby",
+            "desc": "Crafted from soft and highly absorbent materials, these reusable pads keep skin and clothing dry, preventing leaks. Their slim, contoured design discreetly fits into the bra, providing comfort throughout the day. Easy to wash and reuse, they're a practical and eco-friendly choice for breastfeeding mothers."
         },
         
         "produto57" : {
             "id": "57",
-            "nome": "",
-            "preco": "",
+            "nome": "Nursing Pillow - Floral Boho",
+            "preco": "R$224,99",
             "imagem": "../assets/img/products/mamaes57.png",
             "categoria" : "mamaes",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "White",
+            "fornecedor": "EcoBaby",
+            "desc": "Designed to provide maximum comfort and support for both mother and baby, this ergonomic pillow helps reduce tension in the arms, shoulders, and neck. Made with high-quality materials, it features a charming floral boho print that complements any decor. The removable and washable cover makes cleaning easy, ensuring convenience and hygiene."
         },
         
         "produto58" : {
             "id": "58",
-            "nome": "",
-            "preco": "",
-            "imagem": "../assets/img/products/mamaes58.png",
+            "nome": "Breast Mask for Hydration",
+            "preco": "R$39,00",
+            "imagem": "../assets/img/products/mamaes58.webp",
             "categoria" : "mamaes",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "Standard",
+            "fornecedor": "MacroBaby",
+            "desc": "The Moisturizing Breast Mask is enriched with Aloe Vera, Honey, Tea Tree Oil, and Cucumber to soothe and revitalize your tired breasts after breastfeeding. Specially formulated for nursing mothers, this mask is free from artificial fragrances, phthalates, or parabens. Treat your breasts to a spa-like experience with this nourishing and soothing mask."
         },
         
         "produto59" : {
             "id": "59",
-            "nome": "",
-            "preco": "",
-            "imagem": "../assets/img/products/mamaes59.png",
+            "nome": "Lanolin Nipple Cream for Breastfeeding",
+            "preco": "R$84,00",
+            "imagem": "../assets/img/products/mamaes59.jpg",
             "categoria" : "mamaes",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "Standard",
+            "fornecedor": "MacroBaby",
+            "desc": "Lansinoh Lanolin Nipple Cream is a 100% pure lanolin cream, specially formulated to relieve the discomfort of breastfeeding. Its thick and rich lanolin gently soothes and protects sore nipples, providing comfort for breastfeeding mothers. Clinically tested and highly reliable, this cream is the #1 recommended by both mothers and doctors. Made with a single natural ingredient, lanolin, it doesn't need to be removed before breastfeeding. Its unique refinement process ensures a pure, hypoallergenic, flavorless cream free from additives, preservatives, and parabens, allowing you to breastfeed your baby with peace of mind and safety."
         },
         
         "produto60" : {
             "id": "60",
-            "nome": "",
-            "preco": "",
-            "imagem": "../assets/img/products/mamaes60.png",
+            "nome": "Silicone Adhesive Strips for Cesarean Section",
+            "preco": "R$167,00",
+            "imagem": "../assets/img/products/mamaes60.webp",
             "categoria" : "mamaes",
             "promocao": false,
-            "cor": "",
-            "fornecedor": "",
-            "desc": ""
+            "cor": "Standard",
+            "fornecedor": "MacroBaby",
+            "desc": "Protect and improve the appearance of your scar with Cesarean Scar Silicone Adhesive Strips. Made from medical-grade silicone, recommended by dermatologists, these strips hydrate and protect the scar, reducing redness and discomfort. Each 20 cm strip covers the entire incision and is reusable for up to seven days. Waterproof, they can be worn during bathing or swimming. Includes storage pouch."
         }
     }
 }
