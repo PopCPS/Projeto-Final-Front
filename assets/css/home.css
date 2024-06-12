@@ -1,0 +1,14 @@
+@import url("./item.css");
+
+main {
+    background-color: #FBFBFB;
+}
+
+.home-ad img {
+    display: block;
+    width: 100%;
+}
+
+.home-ad {
+    width: 100vw;
+}

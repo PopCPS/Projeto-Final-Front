@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+@import url("./reset.css");
+@import url("./colors.css");
+
+body {
+    display: flex;
+    justify-content: flex-end;
+    background-image: url('../img/signin-background.jpg');
+    height: 100vh;
+    background-size: 100%;  
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.form-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1.375rem;
+    width: 31.75rem;
+    height: 100vh;
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, #FFFFFF99 0%, #99999999 100%);
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.375rem;
+}
+
+.external-login-div {
+    display: flex;
+    gap: 3.125rem;
+}
+
+.input-div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: transparent;
+    border-radius: 0.625rem ;
+    width: 26.5rem;
+    padding: 1rem .5rem;
+    border-bottom: 3px solid var(--primaria);
+}
+
+.input-texto {
+    background-color: transparent;
+    width: 90%;
+    border: none;
+    font-size: 1.25rem;
+    font-weight: bold;
+}   
+
+#submit {
+    width: 20.5rem;
+    height: 3rem;
+}
+
+.input-texto::placeholder {
+    color: #000000FF;
+}
+
+button {
+    padding: 0;
+    margin: 0;
+    background-color: transparent;
+    border: none;
+}
+
+.svg-input {
+    width: 1.75rem;
+    height: 1.75rem;
+}
+
+#submit {
+    border: 1px solid var(--preto);
+    border-radius: 0.625rem;
+    background-color: transparent;
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: var(--preto);
+    font-weight: bold;
+}
