@@ -55,6 +55,27 @@ addToCartButton.addEventListener('click', (event)=>{
     }
 })
 
+
+const buyButton = document.querySelector('.buy-button')
+
+buyButton.addEventListener('click', (event)=>{
+    if(sessionStorage.getItem('cartList') == null) {
+        cart = []
+        cart.push(itemData)
+        sessionStorage.setItem('cartList', JSON.stringify(cart))
+        console.log(itemData)
+        console.log(cart)
+        console.log('null')
+    }else {
+        cart = (JSON.parse(sessionStorage.getItem('cartList')))
+        cart.push(itemData)
+        sessionStorage.setItem('cartList' ,JSON.stringify(cart))
+        console.log(typeof cart)
+        console.log('not null')
+    }
+    document.location.href = './carrinho.html'
+})
+
 // const productList = document.querySelector('.product.list')
 
 // productList.innerHTML += 

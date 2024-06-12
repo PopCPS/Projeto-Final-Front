@@ -80,6 +80,16 @@ main {
     cursor: pointer;
 }
 
+.buy-button:hover, .shopping-cart-button:hover {
+    transform: scale(1.1);
+    transition: 250ms;
+}
+
+.buy-button:active, .shopping-cart-button:active {
+    transform: scale(.9);
+    transition: 50ms;
+}
+
 @media screen and (max-width: 480px) {
 
     .main-item-header {

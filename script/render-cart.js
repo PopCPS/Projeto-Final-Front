@@ -102,11 +102,6 @@ addItem.forEach((item)=>{
     item.addEventListener('click', ()=>{
         const itemID = item.parentElement.parentElement.querySelector('.id').innerText
 
-        if(cart.length > 0) {
-            soma = parseFloat(item.parentElement.parentElement.querySelector('.price').innerText.replace("R$", "").replace(",", ".")) * parseFloat(item.parentElement.parentElement.querySelector('.amount').innerText)
-            renderTotalPrice(soma)
-        }
-
         plusItem = true
         cart.forEach((cartItem)=>{
             if(cartItem.id == itemID && plusItem == true) {
@@ -120,6 +115,21 @@ addItem.forEach((item)=>{
             }
         })
 
+        if(cart.length > 0) {
+            soma = parseFloat(item.parentElement.parentElement.querySelector('.price').innerText.replace("R$", "").replace(",", ".")) * parseFloat(item.parentElement.parentElement.querySelector('.amount').innerText)
+            renderTotalPrice("R$" + soma.toFixed(2).replace(".", ","))
+        }
+
+        pricesSumDiv.innerHTML = ''
+        cart.forEach((item)=>{
+            pricesSumDiv.innerHTML += `
+                <li>
+                    <h4>${item.nome}</h4>
+                    <h4>${item.preco}</h4>
+                </li>
+            `
+        })
+
     })
 })
 
@@ -128,11 +138,6 @@ let minusItem
 removeItem.forEach((item)=>{
     item.addEventListener('click', ()=>{
         const itemID = item.parentElement.parentElement.querySelector('.id').innerText
-
-       if(cart.length > 0) {
-            soma = parseFloat(item.parentElement.parentElement.querySelector('.price').innerText.replace("R$", "").replace(",", ".")) * parseFloat(item.parentElement.parentElement.querySelector('.amount').innerText)
-            renderTotalPrice(soma)
-        }
 
         minusItem = true
         cart.forEach((cartItem, index)=>{
@@ -158,6 +163,22 @@ removeItem.forEach((item)=>{
             `
             }
         }   
+        if(cart.length > 0) {
+            soma = parseFloat(item.parentElement.parentElement.querySelector('.price').innerText.replace("R$", "").replace(",", ".")) * parseFloat(item.parentElement.parentElement.querySelector('.amount').innerText)
+            renderTotalPrice("R$" + soma.toFixed(2).replace(".", ","))
+        } else {
+            totalPriceDiv.innerHTML = ''
+        }
+
+        pricesSumDiv.innerHTML = ''
+        cart.forEach((item)=>{
+            pricesSumDiv.innerHTML += `
+                <li>
+                    <h4>${item.nome}</h4>
+                    <h4>${item.preco}</h4>
+                </li>
+            `
+        })
     })
 })
 
@@ -169,3 +190,7 @@ const renderTotalPrice = (soma) => {
     </div>
 `
 }
+
+document.querySelector('.payment').addEventListener(('click', ()=>{
+    sessionStorage.setItem('soma', soma)
+}))

@@ -1,0 +1,30 @@
+main{
+  margin: 10vh 10vw;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.linkHome{
+  text-decoration: none;
+  border-radius: 5px;
+  border: solid 3px #154A3B;
+  display: flex;
+  align-items: center;
+  height: 5vh;
+  gap: 5px;
+  padding: 5px;
+  color: #154A3B;
+  background: #ffffff;
+  text-decoration: solid;
+  font-weight: 600;
+
+}
+.linkHome:hover{
+  background: #316e5d;
+  color: white;
+}
+@media screen and (max-width:400px){
+  .img{
+    width: 30px;
+  }
+}

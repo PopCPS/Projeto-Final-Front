@@ -4,8 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./assets/css/produtos.css">
-    <link rel="stylesheet" href="./assets/css/carrinho.css">
-    <title>EcoBaby - Shopping Cart</title>
+    <link rel="stylesheet" href="./assets/css/dadosEntrega.css">
+    <link rel="stylesheet" href="./assets/css/headerCompra.css">
+
+    <title>EcoBaby - Payment</title>
 </head>
 <body>
     <header>
@@ -14,66 +16,55 @@
                 <a href="./home.html">
                     <img class="logo" src="./assets/img/EcoBaby-logo.svg" alt="Logo EcoBaby">
                 </a>
-                <div class="search-bar">
-                    <input class="search-input" placeholder="Search" type="text">
-                    <button class="search-button">
-                    <img src="./assets/img/search.svg" alt="Search button">
-                    </button>
-                </div>
-                <div class="user-div">
-                    <a href="./carrinho.html">
-                        <img class="shopping-cart" src="./assets/img/shopping-cart.svg" alt="Shopping cart">
-                    </a>
-                    <a href="">
-                        <img class="favorite" src="./assets/img/EcoTag.svg" alt="Ecotag">
-                    </a>
-                    <a href="./perfil.html">
-                        <img class="user-pic" src="./assets/img/user1.svg" alt="User logo">
-                    </a>
-                </div>
             </div>
-            <div class="navigation-div">
-                <ul class="nav-list">
-                    <li><a id="roupas" href="./roupas.html">Clothing</a></li>
-                    <li><a id="higiene" href="./higiene.html">Hygiene</a></li>
-                    <li><a id="brinquedos" href="./brinquedos.html">Toys</a></li>
-                    <li><a id="mamaes" href="./mamaes.html">For Moms</a></li>
-                </ul>
-            </div>
+            <ul>
+                <li>
+                    <img class="icones" src="./assets/img/icons/caminhao-menu-pagamento-fundo-verde.svg" alt="Um ícone de caminhão com um fundo verde mostrando que essa parte do menu já foi concluída ou está sendo realizada">
+                    <span>Dados de entrega</span>
+                </li>
+                <li>
+                    <img class="icones" src="./assets/img/icons/carteira-menu-pagamento-fundo-branco copy.svg" alt="Um ícone de uma carteira com um fundo verde mostrando que essa parte do menu já foi concluída ou está sendo realizada">
+                    <span>Pagamento</span>
+                </li>
+                <li>
+                    <img class="icones" src="./assets/img/icons/pacote-menu-pagamento-sem-fundo.svg" alt="Um ícone de um pacote sem um fundo verde mostrando que essa parte do menu  ainda não foi concluída ou não está sendo realizada">
+                    <span>Acompanhamento do pedido</span>
+                </li>
+            </ul>
         </nav>
     </header>
     <main>
-        <div class="shopping-cart-content">
-            <div class="shopping-cart-header">
-                <h3 class="shopping-cart-column-name first-column item">Item</h3>
-                <div>
-                    <h3 class="shopping-cart-column-name amount-title">Amount</h3>
-                    <h3 class="shopping-cart-column-name shipping">Shipping</h3>
-                    <h3 class="shopping-cart-column-name price-title">Price</h3>
-                </div>
-            </div>
-            <ul class="cart-items">
-            </ul>
+        <div class="inputsEndereco">
+            <h1>Novo endereço</h1>
+            <input type="text" placeholder="Nome">
+            <input type="text" placeholder="Telefone">
+            <input type="text" placeholder="Cep">
+            <input type="text" placeholder="Cidade">
+            <input type="text" placeholder="Estado">
+            <input type="text" placeholder="Barro">
+            <input type="text" placeholder="Cep">
+            <input type="text" placeholder="Rua">
         </div>
-        <aside class="cart-data">
-            <h1 class="order-summary">Order summary</h1>
-            <div class="ZIP-code-div">
-                <h3>Shipping</h3>
-                <div class="ZIP-code-input">
-                    <input type="text" placeholder="ZIP code">
-                    <button>Ok</button>
+        <section class="resumo_pedido">
+            <span class="titulo_resumo">Resumo do pedido</span>
+            <div class="produto">
+                <input type="number" placeholder="Calcular frete">
+                <button>OK</button>
+            </div>
+            <div class="itens_conta">
+                <div class="itens">
+                    <span>3 produtos</span>
+                    <span>Frete</span>
+                    <span>Total</span>
+                </div>
+                <div class="itens">
+                    <span>R$24,45</span> 
+                    <span>R$12,10</span>
+                    <span>R$36,55</span>
                 </div>
             </div>
-            <div>
-                <ul class="product-prices-sum">
-      
-                </ul>
-            </div>
-            <div class="total-price-div">
-
-            </div>
-            <a class="payment" href="./pagamentoSite.html">Payment</a>
-        </aside>
+            <a class="finalizarPedido" href="./pagamentoSite.html">Continuar pedido</a>
+        </section>
     </main>
     <footer>
         <div>
@@ -120,11 +111,11 @@
                             <span>LinkedIn</span>
                         </a>
                     </il>
-                </ul>
+                </ul>   
             </div>
         </div>
         <p class="terms">@2024 Ecobaby. Todos os direitos reservados.</p>
     </footer>
+    <script src="./script/pagamento.js"></script>
 </body>
-<script src="./script/render-cart.js"></script>
 </html>

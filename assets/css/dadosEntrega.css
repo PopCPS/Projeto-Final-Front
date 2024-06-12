@@ -1,0 +1,76 @@
+
+main{
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  padding: 40px;
+  justify-items: center;
+  justify-content: space-around;
+  margin: 20px;
+  border: solid #d8d8d8 2px;
+  border-radius: 5px;
+}
+.produto{
+  display: flex;
+  align-items: center;
+}
+.produto input{
+  height: 5vh;
+}
+.inputsEndereco{
+  display: flex;
+  border-color: #154A3B;
+  flex-direction: column;
+  width: 50vw;
+
+  border-radius: 3px;
+  border-color: #696868;
+  gap:2vh;
+  border-radius: 15px;
+}
+.resumo_pedido button, .finalizarPedido{
+  margin: 25px;
+  font-size: 16px;
+  cursor: pointer;
+  text-decoration: none;
+  border: none;
+  border-radius:14px ;
+  font-weight: 600;
+  padding: 15px;
+  color: white;
+  background: #5CBFA3;
+}
+.resumo_pedido a:hover{
+  background: #154A3B;
+}
+
+.resumo_pedido{
+  width: 25vw;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+.titulo_resumo{
+  color: #4D4C4C;
+  font-weight: bolder;
+}
+.itens_conta{
+  display: flex;
+  flex-direction: row;
+  gap: 12vw;
+  justify-content: center;
+  text-align: left;
+}
+.itens{
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+@media screen and (max-width:400px){
+  .itens{
+    flex-direction: column;
+    background: red;
+    color: purple;
+  }
+}
