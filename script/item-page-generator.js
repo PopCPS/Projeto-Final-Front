@@ -15,7 +15,7 @@ mainItemHeader.innerHTML += `
             <h2 class="main-item-price">${itemData.preco}</h2>
         </div>
         <div class="main-item-data">
-            <button class="shopping-cart-button">Shopping cart <img src="./assets/img/add-to-cart.svg" alt="Shopping cart"></button>
+            <button class="shopping-cart-button">Shopping cart <img src="./assets/img/add-to-cart.svg" alt="Add to shopping cart"></button>
             <button class="buy-button">Buy <img src="./assets/img/checkbox.svg" alt="Buy"></button>
         </div>
     </div>
@@ -33,6 +33,27 @@ relatedItems.innerHTML += `
     <h2 id=${itemData.categoria} class="section-title">Related products</h2>
     <ul class="product-list"></ul>
 `
+
+const addToCartButton = document.querySelector('.shopping-cart-button')
+
+let cart = JSON.parse(sessionStorage.getItem('cartList'))
+
+addToCartButton.addEventListener('click', (event)=>{
+    if(sessionStorage.getItem('cartList') == null) {
+        cart = []
+        cart.push(itemData)
+        sessionStorage.setItem('cartList', JSON.stringify(cart))
+        console.log(itemData)
+        console.log(cart)
+        console.log('null')
+    }else {
+        cart = (JSON.parse(sessionStorage.getItem('cartList')))
+        cart.push(itemData)
+        sessionStorage.setItem('cartList' ,JSON.stringify(cart))
+        console.log(typeof cart)
+        console.log('not null')
+    }
+})
 
 // const productList = document.querySelector('.product.list')
 

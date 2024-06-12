@@ -8,4 +8,4 @@ setInterval(()=>{
     } else {
         imgNum = 1
     }
-}, 7500)    
+}, 2500)   

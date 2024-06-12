@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./assets/css/produtos.css">
+    <link rel="stylesheet" href="./assets/css/carrinho.css">
     <title>EcoBaby - Shopping Cart</title>
 </head>
 <body>
@@ -42,7 +43,37 @@
         </nav>
     </header>
     <main>
+        <div class="shopping-cart-content">
+            <div class="shopping-cart-header">
+                <h3 class="shopping-cart-column-name first-column item">Item</h3>
+                <div>
+                    <h3 class="shopping-cart-column-name amount-title">Amount</h3>
+                    <h3 class="shopping-cart-column-name shipping">Shipping</h3>
+                    <h3 class="shopping-cart-column-name price-title">Price</h3>
+                </div>
+            </div>
+            <ul class="cart-items">
+            </ul>
+        </div>
+        <aside class="cart-data">
+            <h1 class="order-summary">Order summary</h1>
+            <div class="ZIP-code-div">
+                <h3>Shipping</h3>
+                <div class="ZIP-code-input">
+                    <input type="text" placeholder="ZIP code">
+                    <button>Ok</button>
+                </div>
+            </div>
+            <div>
+                <ul class="product-prices-sum">
+      
+                </ul>
+            </div>
+            <div class="total-price-div">
 
+            </div>
+            <a class="payment" href="./pagamento.html">Payment</a>
+        </aside>
     </main>
     <footer>
         <div>
@@ -95,4 +126,5 @@
         <p class="terms">@2024 Ecobaby. Todos os direitos reservados.</p>
     </footer>
 </body>
+<script src="./script/render-cart.js"></script>
 </html>

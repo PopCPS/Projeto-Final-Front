@@ -105,8 +105,6 @@ sections.forEach((section)=>{
     }
 })
 
-console.log(sections)
-
 let newRenderMin = 8
 let newRenderMax = 12
 
