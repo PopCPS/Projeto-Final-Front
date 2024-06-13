@@ -161,8 +161,8 @@ removeItem.forEach((item)=>{
             if(cart.length == 0) {
                 renderedItems.innerHTML += `
                 <div class="empty-cart">
-                    <span>Seu carrinho ainda está vazio, adicione algo!</span>
-                    <a href="./home.html">Comprar</a>
+                    <span>your cart is still empty, add something!</span>
+                    <a href="./home.html">Browse</a>
                 </div>
             `
             }
@@ -195,6 +195,20 @@ const renderTotalPrice = (soma) => {
 `
 }
 
-document.querySelector('.payment').addEventListener('click', (()=>{
-    sessionStorage.setItem('soma', soma)
+const paymentButton = document.querySelector('.payment')
+const emptyCartWarning = document.querySelector('.empty-cart span')
+
+paymentButton.addEventListener('click', ((event)=>{
+
+    if(cart.length > 0) {
+        sessionStorage.setItem('soma', soma)
+        document.location.href = './dadosEntrega.html'
+    } else {
+        paymentButton.classList.add('red-button')
+        emptyCartWarning.classList.add('increase-size')
+        setTimeout(() => {
+            paymentButton.classList.remove('red-button')
+            emptyCartWarning.classList.remove('increase-size')
+        }, 3000);
+    }
 }))

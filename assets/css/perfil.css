@@ -23,14 +23,11 @@
 
 .button-profile {
   display: flex;
-  gap: 0.75rem;
-  padding: 0.063rem;
+  gap: 2rem;
 }
 
 .button-profile input {
-  width: 10.313rem;
-  height: 3.063rem;
-  padding: 0.063rem;
+  padding: 1rem 1.5rem;
   font-size: 1.25rem;
   font-weight: bold;
   border-color: #33AF8C;
@@ -38,13 +35,22 @@
   border-radius: 0.625rem;
   color: #ffffff;
   background-color: #33AF8C;
+  transform: scale(1);
+  transition: transform 500ms;
+}
+
+.button-profile input:hover, .input-div img:hover {
+  transform: scale(1.1);
+  transition: 500ms; 
+}
+
+.button-profile input:active, .input-div img:active  {
+  transform: scale(.9);
+  transition: 250ms;
 }
 
 .information-profile {
-  margin-top: 3.563rem;
-  margin-left: 9.125rem;
-  margin-right: 9.125rem;
-  margin-bottom: 10.625rem;
+  margin: 3rem 9rem 8rem;
   display: grid;
   align-items: center;
   grid-template-columns: 1fr 1fr;
@@ -54,27 +60,30 @@
 
 .input-div {
   border: solid 3px #808080;
-  border-radius: 1rem;
+  border-radius: .625rem;
   display: flex;
   align-items: center;
-  justify-content: space-around;
-  /* width: 16.375rem; */
-  /* height: 3.968rem; */
-  
+  padding: 1rem 1.5rem;
+  gap: 1rem;
 }
 
 .input-div input {
-  font-size: 2rem;
-  color: #000000;
-  padding-left: 1.438rem;
+  font-size: 1.5rem;
+  color: var(--preto);
   background-color: transparent;
   border: none;
-  width: 32.5rem;
-  height: 4rem;
+  flex-grow: 1;
 }
 
 .input-div img {
   width: 1.875rem;
   height: 1.75rem;
 
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active{
+    -webkit-box-shadow: 0 0 0 30px white inset !important;
 }
