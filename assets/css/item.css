@@ -13,6 +13,18 @@
     gap: 1rem;
     padding: .625rem;
     background-color: var(--branco);
+    transform: scale(1);
+    transition: transform 500ms;
+}
+
+.item:hover {
+    transform: scale(1.1);
+    transition: 500ms;
+}
+
+.item:active {
+    transform: scale(.9);
+    transition: 250ms;
 }
 
 .item-img {

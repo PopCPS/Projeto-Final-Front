@@ -204,14 +204,16 @@ main {
     font-weight: bold;
 }
 
-.empty-cart a {
+.empty-cart a, .payment {
     text-decoration: none;
-    color: var(--preto);
+    color: var(--branco);
     font-weight: bold;
     font-size: 1rem;
     border-radius: .625rem;
     background-color: var(--primaria);
     padding: 1rem 1.5rem;
+    transform: scale(1);
+    transition: transform 500ms;
 }
 
 .product-prices-sum {
@@ -230,24 +232,14 @@ main {
     padding-top: 2.5rem;
 }
 
-.empty-cart a:hover {
+.empty-cart a:hover ,.payment:hover {
     transform: scale(1.1);
     transition: 250ms;
 }
 
-.empty-cart a:active {
+.empty-cart a:active, .payment:active {
     transform: scale(.9);
     transition: 50ms;
-}
-
-.payment {
-    margin-top: 2rem;
-    text-decoration: none;
-    color: var(--preto);
-    background-color: var(--primaria);
-    border-radius: .625rem;
-    padding: 1rem 1.5rem;
-    font-weight: bold;
 }
 
 @media screen and (max-width: 480px) {

@@ -12,7 +12,9 @@ mainItemHeader.innerHTML += `
         <div class="main-item-info">
             <h1 class="main-item-title">${itemData.nome}</h1>
             <p class="main-item-desc">${itemData.desc}</p>
-            <h2 class="main-item-price">${itemData.preco}</h2>
+            <div>
+                <h2 class="main-item-price">${itemData.preco}</h2>
+            </div>
         </div>
         <div class="main-item-data">
             <button class="shopping-cart-button">Shopping cart <img src="./assets/img/add-to-cart.svg" alt="Add to shopping cart"></button>

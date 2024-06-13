@@ -1,5 +1,5 @@
 const fetchData = async () => {
-    return fetch('../script/produtos.json')
+    return fetch('./script/produtos.json')
       .then(async response => {
         if (!response.ok) {
           throw new Error('Network response was not ok');

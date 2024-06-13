@@ -39,6 +39,18 @@ nav {
     width: 2.5rem;
     background-color: #2E9F7F;
     cursor: pointer;
+    transform: scale(1);
+    transition: transform 500ms;
+}
+
+.search-button:hover {
+    transform: scale(1.1);
+    transition: 500ms;
+}
+
+.search-button:active {
+    transform: scale(.9);
+    transition: 250ms;
 }
 
 .search-button img {
@@ -67,6 +79,7 @@ nav {
 
 .nav-list li {
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     padding: 1rem 0;
@@ -80,17 +93,18 @@ nav {
     font-size: 1.2rem;
     position: relative;
     font-weight: bold;
+    transform: scale(1);
+    transition: transform 500ms;
 }
 
-.nav-list li a::before{
-    content: '';
-    background-color: var(--branco);
-    position: absolute;
-    bottom: -3px;
-    left: -10%;
-    height: 1px;
-    width: 0;
-    transition: width 300ms;
+.nav-list li a:hover {
+    transform: scale(1.2);
+    transition: 500ms;
+}
+
+.nav-list li a:active {
+    transform: scale(.9);
+    transition: 250ms;
 }
 
 .nav-list li a:hover::before {
@@ -111,12 +125,17 @@ nav {
 }
 
 .user-div a {
-    transition: 300ms;
+    transition: transform 500ms;
 }
 
 .user-div a:hover {
-    transform: scale(1.1);
-    transition: 300ms;
+    transform: scale(1.2);
+    transition: 500ms;
+}
+
+.user-div a:active {
+    transform: scale(.9);
+    transition: 250ms;
 }
 
 .shopping-cart {

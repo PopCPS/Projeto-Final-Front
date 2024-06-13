@@ -1,7 +1,7 @@
-const cart = JSON.parse(sessionStorage.getItem("cartList"))
 const renderedItems = document.querySelector('.cart-items')
 const pricesSumDiv = document.querySelector('.product-prices-sum')
 const totalPriceDiv = document.querySelector('.total-price-div')
+var cart = JSON.parse(sessionStorage.getItem("cartList"))
 let soma = 'R$0,00'
 
 let renderedIDs
@@ -9,6 +9,10 @@ let renderStatus
 let parentElement
 const currencyRegex = /^([R$]+)/;
 const numberRegex = /(\d+)/g;
+
+if(cart == null) {
+    cart = []
+}
 
 if(cart.length > 0) {
     border = ''
@@ -73,8 +77,8 @@ if(cart.length > 0) {
 } else {
     renderedItems.innerHTML += `
         <div class="empty-cart">
-            <span>Seu carrinho ainda está vazio, adicione algo!</span>
-            <a href="./home.html">Comprar</a>
+            <span>your cart is still empty, add something!</span>
+            <a href="./home.html">Browse</a>
         </div>
     `
 }
@@ -191,6 +195,6 @@ const renderTotalPrice = (soma) => {
 `
 }
 
-document.querySelector('.payment').addEventListener(('click', ()=>{
+document.querySelector('.payment').addEventListener('click', (()=>{
     sessionStorage.setItem('soma', soma)
 }))
