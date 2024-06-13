@@ -202,7 +202,7 @@ paymentButton.addEventListener('click', ((event)=>{
 
     if(cart.length > 0) {
         sessionStorage.setItem('soma', soma)
-        document.location.href = './dadosEntrega.html'
+        document.location.href = './pagamento.html'
     } else {
         paymentButton.classList.add('red-button')
         emptyCartWarning.classList.add('increase-size')
