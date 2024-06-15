@@ -12,28 +12,27 @@ nav ul {
     position: relative;
 }
 
-nav ul::after {
+.first::before {
     content: '';
     position: absolute;
-    width: 20%; /* 20% 50% 100%*/
+    width: 20%;
     height: 4px;
     background-color: #154A3B;
     left: 0;
     top: 39%;
     z-index: 2;
     border-radius: 2px;
+    transition: width 500ms;
 }
 
-nav ul::before {
-    content: '';
-    position: absolute;
-    width: 100%; /* 20% 50% 100%*/
-    height: 4px;
-    background-color: var(--branco);
-    left: 0;
-    top: 39%;
-    z-index: 1;
-    border-radius: 2px;
+.second::before {
+    width: 50%;
+    transition: width 500ms;
+}
+
+.third::before {
+    width: 100%;
+    transition: width 500ms;
 }
 
 nav ul li {
@@ -60,7 +59,8 @@ nav ul li div {
     border: solid 2px #154A3B;
     background-color: var(--branco);
     padding: calc(1.5rem - 4px);
-    }
+    transition: background-color 1s;
+}
     
 nav ul li svg g path {
     fill: #154A3B;  
@@ -69,6 +69,7 @@ nav ul li svg g path {
 .payment-active {
     fill: var(--branco);
     background-color: #154A3B;
+    transition: background-color 1s;
 }
 
 main {
@@ -181,7 +182,7 @@ main {
     width: 20rem;
 }
 
-.payment, .slip-highlight button {
+.payment, .slip-highlight button, .pix-content button {
     text-decoration: none;
     border: none;
     color: var(--branco);
@@ -190,6 +191,8 @@ main {
     border-radius: .625rem;
     background-color: var(--primaria);
     padding: 1rem 1.5rem;
+    transform: scale(1);
+    transition: transform 500ms;
 }
 
 .payment-options {
@@ -271,7 +274,7 @@ main {
     font-size: 1.25rem;
 }
 
-.slip-highlight button {
+.slip-highlight button, .pix-content button {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -301,4 +304,114 @@ main {
 
 .warning-div ul li {
     margin-left: 1.25rem;
+}
+
+.row {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.credit-card-content, .pix-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2.5rem;
+    width: 28rem;
+}
+
+.credit-card-content form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    width: 100%;
+}
+
+.credit-card-content form input, .credit-card-content form select {
+    width: calc(90% - 2rem - 2px);
+    padding: .5rem 1rem;
+    font-size: 1.5rem;
+    background-color: transparent;
+    border-radius: .625rem;
+    border: solid 1px ;
+}
+
+.pix-content ul {
+    display: flex;
+    flex-direction: column;
+    gap: 1.75rem;
+    list-style: decimal;
+}
+
+.pix-content ul li {
+    font-size: 1.75rem;
+    color: #4E4E4E;
+    margin-left: 2.5rem;
+}
+
+.order-tracking-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10rem;
+    margin: 3rem;
+}
+
+.order-tracking-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    width: 20rem;
+}
+
+.order-tracking-item span, .order-tracking-item h2 {
+    margin-top: 2rem;
+    font-size: 2rem;
+}
+
+.order-tracking-item h2 {
+    font-weight: bold;
+}
+
+.tracking-step {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 3rem;
+    height: 3rem;
+    color: #154A3B;
+    border: solid 2px #154A3B;
+    border-radius: calc(1.5rem + 1px);
+}
+
+.tracking-active {
+    color: var(--branco);
+    background-color: #154A3B;
+}
+
+.main-tracking {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5rem 0;
+}
+
+.tracking-flex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.payment:hover {
+    transform: scale(1.1);
+    transition: 500ms;
+}
+
+.payment:active {
+    transform: scale(.9);
+    transition: 250ms;
 }
