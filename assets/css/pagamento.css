@@ -182,6 +182,20 @@ main {
     width: 20rem;
 }
 
+.total-price-div {
+    padding: 4rem 0 2.5rem;
+    position: relative;
+}
+
+.total-price-div div:before {
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 1px;
+    background-color: var(--preto);
+    top: 2rem;
+}
+
 .payment, .slip-highlight button, .pix-content button {
     text-decoration: none;
     border: none;
@@ -392,7 +406,7 @@ main {
     background-color: #154A3B;
 }
 
-.main-tracking {
+.tracking-main {
     display: flex;
     align-items: center;
     justify-content: center;
